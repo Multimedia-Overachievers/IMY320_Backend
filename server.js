@@ -13,4 +13,11 @@ app.get('/modules', function (req, res) {
        console.log("Modules Requested");
        res.end(data);
     });
-})
+});
+
+app.get('/questions', function (req, res) {
+    fs.readFile( "json/questions.json", 'utf8', function (err, data) {
+       console.log("Questions Requested");
+       res.end(data);
+    });
+});
