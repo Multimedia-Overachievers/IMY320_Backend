@@ -28,7 +28,7 @@
                                     "correct": false
                                 }
                             ],
-                            "finished": false
+                            "finished": true
                         },
                         {
                             "id": 1,
@@ -56,20 +56,17 @@
                                 {
                                     "answer": "A change can only be a trend when a statistical test confirms it",
                                     "correct": true
-                                }
-                                ,
+                                },
                                 {
                                     "answer": "You can draw a straight line from the first point to the last in your data series",
                                     "correct": false
-                                }
-                                ,
+                                },
                                 {
                                     "answer": "Trends begin and end only at the areas you consider in your dataset",
                                     "correct": false
                                 }
-                            ]
-                            ,
-                            "finished": true
+                            ],
+                            "finished": false
                         },
                         {
                             "id": 3,
@@ -84,7 +81,7 @@
                                     "correct": true
                                 }
                             ],
-                            "finished": false
+                            "finished": true
                         },
                         {
                             "id": 4,
@@ -122,7 +119,7 @@
                                     "correct": true
                                 }
                             ],
-                            "finished": false
+                            "finished": true
                         },
                         {
                             "id": 6,
@@ -135,19 +132,17 @@
                                 {
                                     "answer": "Technology Spark",
                                     "correct": false
-                                }
-                                ,
+                                },
                                 {
                                     "answer": "Technology Prompt",
                                     "correct": false
-                                }
-                                ,
+                                },
                                 {
                                     "answer": "Technology Trigger",
                                     "correct": true
                                 }
                             ],
-                            "finished": false
+                            "finished": true
                         },
                         {
                             "id": 7,
@@ -160,19 +155,17 @@
                                 {
                                     "answer": "In the Trough of Disillusionment, the overenthusiasm of a piece of technology results in expectations being met.",
                                     "correct": false
-                                }
-                                ,
+                                },
                                 {
                                     "answer": "In the Technology Trigger is when a piece of technology has already been hyped up.",
                                     "correct": false
-                                }
-                                ,
+                                },
                                 {
                                     "answer": "In the Peak of Inflated Expectations is when a piece of technology begins to become hyped up",
                                     "correct": true
                                 }
                             ],
-                            "finished": false
+                            "finished": true
                         },
                         {
                             "id": 8,
@@ -187,7 +180,7 @@
                                     "correct": false
                                 }
                             ],
-                            "finished": false
+                            "finished": true
                         },
                         {
                             "id": 9,
@@ -202,7 +195,7 @@
                                     "correct": true
                                 }
                             ],
-                            "finished": false
+                            "finished": true
                         },
                         {
                             "id": 10,
@@ -215,19 +208,17 @@
                                 {
                                     "answer": "Should have minimal spacing between them",
                                     "correct": false
-                                }
-                                ,
+                                },
                                 {
                                     "answer": "Should be placed in areas that are easy to reach by the user",
                                     "correct": true
-                                }
-                                ,
+                                },
                                 {
                                     "answer": "Should be small so that more targets can be fit onto the screen",
                                     "correct": false
                                 }
                             ],
-                            "finished": false
+                            "finished": true
                         },
                         {
                             "id": 11,
@@ -242,7 +233,7 @@
                                     "correct": false
                                 }
                             ],
-                            "finished": false
+                            "finished": true
                         },
                         {
                             "id": 12,
@@ -255,19 +246,17 @@
                                 {
                                     "answer": "It would lead to a decrease in frameworks",
                                     "correct": false
-                                }
-                                ,
+                                },
                                 {
                                     "answer": "It would allow you to use other sites easier and quicker",
                                     "correct": true
-                                }
-                                ,
+                                },
                                 {
                                     "answer": "It would make it harder for a user to remember how to use any of the sites",
                                     "correct": false
                                 }
                             ],
-                            "finished": false
+                            "finished": true
                         },
                         {
                             "id": 13,
@@ -282,7 +271,7 @@
                                     "correct": true
                                 }
                             ],
-                            "finished": false
+                            "finished": true
                         },
                         {
                             "id": 14,
@@ -305,7 +294,7 @@
                                     "correct": false
                                 }
                             ],
-                            "finished": false
+                            "finished": true
                         }
                     ]
                 },
@@ -326,7 +315,7 @@
                                     "correct": true
                                 }
                             ],
-                            "finished": true
+                            "finished": false
                         }
                     ]
                 },
@@ -394,7 +383,7 @@
                                     "correct": false
                                 }
                             ],
-                            "finished": true
+                            "finished": false
                         }
                     ]
                 },
@@ -415,7 +404,7 @@
                                     "correct": true
                                 }
                             ],
-                            "finished": true
+                            "finished": false
                         }
                     ]
                 },
