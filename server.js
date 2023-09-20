@@ -132,3 +132,20 @@ app.get('/clear-scores', function (req, res) {
     });
 });
 
+//add small amount of time to each module
+app.get('/add-time', function (req, res) {
+    fs.readFile( "json/modules.json", 'utf8', function (err, data) {
+        var data = JSON.parse(data);
+        data.data.forEach(module => {
+            module.timeSpent += 1000;
+        });
+
+        fs.writeFile("json/modules.json", JSON.stringify(data, null, 4), function(err) {
+            if(err) {
+                return console.log(err);
+            }
+        });
+
+        console.log("Time added");
+    });
+}
