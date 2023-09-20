@@ -148,4 +148,4 @@ app.get('/add-time', function (req, res) {
 
         console.log("Time added");
     });
-}
+});
