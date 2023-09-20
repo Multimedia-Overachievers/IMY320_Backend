@@ -50,7 +50,6 @@ app.get('/set-all-finished', function (req, res) {
 });
 
 app.get('/set-all-unfinished', async function (req, res) {
-    writeQueue.push(req);
     fs.readFile( "json/questions.json", 'utf8', function (err, data) {
         var data = JSON.parse(data);
         data.module.forEach(module => {
