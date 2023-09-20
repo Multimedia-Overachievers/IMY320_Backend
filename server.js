@@ -100,11 +100,11 @@ app.post('/add-quiz-score', function (req, res) {
         chapter.scores.push(parseInt(req.body.score));
         module.timeSpent += parseInt(req.body.quizTime);
         console.log("time spent", module.timeSpent);
-        // fs.writeFile("json/modules.json", JSON.stringify(data, null, 4), function(err) {
-        //     if(err) {
-        //         return console.log(err);
-        //     }
-        // });
+        fs.writeFile("json/modules.json", JSON.stringify(data, null, 4), function(err) {
+            if(err) {
+                return console.log(err);
+            }
+        });
 
         console.log("Score added");
     });
