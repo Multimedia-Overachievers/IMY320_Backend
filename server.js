@@ -22,71 +22,97 @@ app.get('/modules', function (req, res) {
     });
 });
 
-app.get('/questions', function (req, res) {
-    fs.readFile( "json/questions.json", 'utf8', function (err, data) {
-       res.end(data);
+const modules = ["cos314", "cos333", "imy320", "imy310"];
+
+app.get('/get-all-questions', async function (req, res) {
+    var questions = {
+        module: []
+    };
+
+    await Promise.all(modules.map(async module => {
+        await new Promise((resolve, reject) => {
+            fs.readFile( "json/" + module + ".json", 'utf8', function (err, data) {
+                var data = JSON.parse(data);
+                questions.module.push(data);
+                resolve();
+            });
+        });
+    })).then(() => {
+        res.json(questions);
+    });
+});
+
+app.post('/questions', function (req, res) {
+    //response contains module code
+    var moduleCode = req.body.moduleCode;
+    fs.readFile("json/" + moduleCode + ".json", 'utf8', function (err, data) {
+        res.end(data);
     });
 });
 
 app.get('/set-all-finished', function (req, res) {
-    fs.readFile( "json/questions.json", 'utf8', function (err, data) {
-        var data = JSON.parse(data);
-        data.module.forEach(module => {
-            module.chapters.forEach(chapter => {
-                chapter.questions.forEach(question => {
-                    question.finished = true;
-                });
-            });
-        });
+    // fs.readFile( "json/questions.json", 'utf8', function (err, data) {
+    //     var data = JSON.parse(data);
+    //     data.module.forEach(module => {
+    //         module.chapters.forEach(chapter => {
+    //             chapter.questions.forEach(question => {
+    //                 question.finished = true;
+    //             });
+    //         });
+    //     });
 
-        fs.writeFile("json/questions.json", JSON.stringify(data, null, 4), function(err) {
-            if(err) {
-                return console.log(err);
-            }
+    //     fs.writeFile("json/questions.json", JSON.stringify(data, null, 4), function(err) {
+    //         if(err) {
+    //             return console.log(err);
+    //         }
         
-            console.log("The file was saved! | Set all finished");
-        });
-    });
+    //         console.log("The file was saved! | Set all finished");
+    //     });
+    // });
 });
 
 app.get('/set-all-unfinished', async function (req, res) {
-    fs.readFile( "json/questions.json", 'utf8', function (err, data) {
-        var data = JSON.parse(data);
-        data.module.forEach(module => {
-            module.chapters.forEach(chapter => {
-                chapter.questions.forEach(question => {
-                    question.finished = false;
-                });
-            });
-        });
+    // fs.readFile( "json/questions.json", 'utf8', function (err, data) {
+    //     var data = JSON.parse(data);
+    //     data.module.forEach(module => {
+    //         module.chapters.forEach(chapter => {
+    //             chapter.questions.forEach(question => {
+    //                 question.finished = false;
+    //             });
+    //         });
+    //     });
 
-        fs.writeFile("json/questions.json", JSON.stringify(data, null, 4), function(err) {
-            if(err) {
-                return console.log(err);
-            }
+    //     fs.writeFile("json/questions.json", JSON.stringify(data, null, 4), function(err) {
+    //         if(err) {
+    //             return console.log(err);
+    //         }
         
-            console.log("The file was saved! | Set all unfinished");
-        });
-    });
+    //         console.log("The file was saved! | Set all unfinished");
+    //     });
+    // });
 });
 
 app.post('/update-chapter-question', function (req, res) {
-    fs.readFile( "json/questions.json", 'utf8', function (err, data) {
-        var data = JSON.parse(data);
-        req.body.questionIndex.forEach(questionIndex => {
-            data.module[req.body.moduleIndex].chapters[req.body.chapterIndex].questions[questionIndex].finished = true;
-        });
+    // fs.readFile( "json/questions.json", 'utf8', function (err, data) {
+    //     var data = JSON.parse(data);
+    //     req.body.questionIndex.forEach(questionIndex => {
+    //         data.module[req.body.moduleIndex].chapters[req.body.chapterIndex].questions[questionIndex].finished = true;
+    //     });
 
-        fs.writeFile("json/questions.json", JSON.stringify(data, null, 4), function(err) {
-            if(err) {
-                return console.log(err);
-            }
-        });
+    //     fs.writeFile("json/questions.json", JSON.stringify(data, null, 4), function(err) {
+    //         if(err) {
+    //             return console.log(err);
+    //         }
+    //     });
 
-        console.log("Question Set to finished");
-    });
+    //     console.log("Question Set to finished");
+    // });
 
-    res.json({});
+    // res.json({});
+
+    //do the same but with new module per json file
+    var moduleCode = GetModuleCode(req.body.moduleIndex);
+    console.log(moduleCode);
 });
 
 
@@ -112,7 +138,7 @@ app.post('/add-quiz-score', function (req, res) {
 });
 
 app.get('/clear-scores', function (req, res) {
-    fs.readFile( "json/modules.json", 'utf8', function (err, data) {
+    fs.readFile("json/modules.json", 'utf8', function (err, data) {
         //for each chapter, set scores to empty array
         var data = JSON.parse(data);
         data.data.forEach(module => {
@@ -148,3 +174,16 @@ app.get('/add-time', function (req, res) {
         console.log("Time added");
     });
 });
+
+function GetModuleCode(moduleIndex) {
+    switch (parseInt(moduleIndex)) {
+        case 0:
+            return 'imy320';
+        case 1:
+            return 'imy310';
+        case 2:
+            return 'cos333';
+        case 3:
+            return 'cos314';
+    }
+}

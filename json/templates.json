@@ -1,0 +1,46 @@
+[
+    {"True/False": ""},
+    {
+        "id": 0,
+        "question": "",
+        "answers": [
+            {
+                "answer": "True",
+                "correct": false
+            },
+            {
+                "answer": "False",
+                "correct": false
+            }
+        ],
+        "explanation" : "",
+        "finished": false
+    },
+
+
+    {"Multichoice": ""},
+    {
+        "id": 0,
+        "question": "",
+        "answers": [
+            {
+                "answer": "",
+                "correct": false
+            },
+            {
+                "answer": "",
+                "correct": false
+            },
+            {
+                "answer": "",
+                "correct": false
+            },
+            {
+                "answer": "",
+                "correct": false
+            }
+        ],
+        "explanation" : "",
+        "finished": false
+    }
+]

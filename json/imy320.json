@@ -1,0 +1,1277 @@
+{
+    "name": "IMY 320",
+    "chapters": [
+        {
+            "id": 0,
+            "name": "Chapter 1 - Trends",
+            "questions": [
+                {
+                    "id": 0,
+                    "question": "What are the three rules of epidemics?",
+                    "answers": [
+                        {
+                            "answer": "The Law of the Few, the Stickiness Factor and the Power of Context",
+                            "correct": true
+                        },
+                        {
+                            "answer": "The Law of the Few, the Stickiness Factor and the Strength of Content",
+                            "correct": false
+                        },
+                        {
+                            "answer": "The Law of the Scarce, the Fusion Factor and the Power of Context",
+                            "correct": false
+                        },
+                        {
+                            "answer": "The Law of the Few, the Fusion Factor and the Strength of Context",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "The three rules of epidemics are 'The Law of the Few,' 'the Stickiness Factor,' and 'the Power of Context' because these factors collectively explain how trends and behaviors spread through a population.",
+                    "finished": false
+                },
+                {
+                    "id": 1,
+                    "question": "A fad can be described as the direction that some form of behaviour develops in a large population and this behaviour takes long to fade away.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "A fad is typically characterized by a rapid rise in popularity and a relatively quick decline, not a behavior that takes a long time to fade away.",
+                    "finished": false
+                },
+                {
+                    "id": 2,
+                    "question": "Pick the most correct option.",
+                    "answers": [
+                        {
+                            "answer": "A trend can only be inferred from one point",
+                            "correct": false
+                        },
+                        {
+                            "answer": "A change can only be a trend when a statistical test confirms it",
+                            "correct": true
+                        },
+                        {
+                            "answer": "You can draw a straight line from the first point to the last in your data series",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Trends begin and end only at the areas you consider in your dataset",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "A change can only be considered a trend when a statistical test confirms it because trends are based on data and require statistical validation to ensure their significance.",
+                    "finished": false
+                },
+                {
+                    "id": 3,
+                    "question": "Diffusion of Innovation can be described as the process in which an innovation is spread around through different channels in an economic system.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "The Diffusion of Innovation refers to the spread of new ideas and technologies, not necessarily within an economic system.",
+                    "finished": false
+                },
+                {
+                    "id": 4,
+                    "question": "The Technology Adoption Lifecycle:",
+                    "answers": [
+                        {
+                            "answer": "Is a sociological model that describes the rejection of an innovation",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Is an economic model that describes how and when an innovation is accepted by certain groups",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Is also known as the Roger Bell Curve and describes how a new product is adopted according to the psychological characteristics of certain user groups",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Illustrates the progress of a piece of technology through a pattern of overenthusiasm and disillusionment",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "The Technology Adoption Lifecycle, also known as the Roger Bell Curve, describes how a new product is adopted according to the psychological characteristics of certain user groups.",
+                    "finished": false
+                },
+                {
+                    "id": 5,
+                    "question": "It is predicted that the Nexus of Forces will drive 90% of growth in the IoT market.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "The Nexus of Forces are the major drivers of IT market expansion.",
+                    "finished": false
+                },
+                {
+                    "id": 6,
+                    "question": "The first phase of the Gartner Hype Cycle is:",
+                    "answers": [
+                        {
+                            "answer": "Technology Triggering",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Technology Spark",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Technology Prompt",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Technology Trigger",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "The first phase of the Gartner Hype Cycle is 'Technology Trigger' because this phase marks the initial introduction and excitement surrounding a new technology.",
+                    "finished": false
+                },
+                {
+                    "id": 7,
+                    "question": "Pick the most correct option.",
+                    "answers": [
+                        {
+                            "answer": "In the Slope of Enlightenment the adoption of a piece of technology accelerates",
+                            "correct": false
+                        },
+                        {
+                            "answer": "In the Trough of Disillusionment, the overenthusiasm of a piece of technology results in expectations being met.",
+                            "correct": false
+                        },
+                        {
+                            "answer": "In the Technology Trigger is when a piece of technology has already been hyped up.",
+                            "correct": false
+                        },
+                        {
+                            "answer": "In the Peak of Inflated Expectations is when a piece of technology begins to become hyped up",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "In the Peak of Inflated Expectations, a piece of technology begins to become hyped up, leading to unrealistic expectations and eventual disillusionment.",
+                    "finished": false
+                },
+                {
+                    "id": 8,
+                    "question": "An aggregator is a website that accumulates different types of information from various sources online.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "An aggregator is a website that accumulates different types of information from various sources online.",
+                    "finished": false
+                },
+                {
+                    "id": 9,
+                    "question": "YouTube is an example of a web aggregator.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "YouTube is an example of a web aggregator because it gathers and hosts a wide range of video content from various sources.",
+                    "finished": false
+                },
+                {
+                    "id": 10,
+                    "question": "Pick the most correct option. In Fitts' Law a touch target:",
+                    "answers": [
+                        {
+                            "answer": "Should be large enough so that users can easily tell them apart and slowly select them",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Should have minimal spacing between them",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Should be placed in areas that are easy to reach by the user",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Should be small so that more targets can be fit onto the screen",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "In Fitts’ Law, a touch target should be placed in areas that are easy to reach by the user to optimize user interaction.",
+                    "finished": false
+                },
+                {
+                    "id": 11,
+                    "question": "A mental model is how we think a system works",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "A mental model is indeed how we think a system works, representing our understanding of how things operate.",
+                    "finished": false
+                },
+                {
+                    "id": 12,
+                    "question": "Pick the most correct option. If every website followed the same convention:",
+                    "answers": [
+                        {
+                            "answer": "Everything would become boring to look at and use",
+                            "correct": false
+                        },
+                        {
+                            "answer": "It would lead to a decrease in frameworks",
+                            "correct": false
+                        },
+                        {
+                            "answer": "It would allow you to use other sites easier and quicker",
+                            "correct": true
+                        },
+                        {
+                            "answer": "It would make it harder for a user to remember how to use any of the sites",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "If every website followed the same convention, it would allow users to use other sites easier and quicker because they would have a consistent and familiar user experience.",
+                    "finished": false
+                },
+                {
+                    "id": 13,
+                    "question": "Pitt's Law explains how a big object takes more time to click on.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : " Fitts' Law explains that larger objects take less time to click on, making it quicker to interact with bigger targets.",
+                    "finished": false
+                },
+                {
+                    "id": 14,
+                    "question": "An average adult human's finger pad is:",
+                    "answers": [
+                        {
+                            "answer": "6 - 10mm",
+                            "correct": false
+                        },
+                        {
+                            "answer": "10 - 14mm",
+                            "correct": true
+                        },
+                        {
+                            "answer": "14 - 18mm",
+                            "correct": false
+                        },
+                        {
+                            "answer": "18 - 22mm",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "An average adult human's finger pad is typically in the range of 10-14mm.",
+                    "finished": false
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Chapter 2 - UX",
+            "questions": [
+                {
+                    "id": 0,
+                    "question": "User Experience Design is:",
+                    "answers": [
+                        {
+                            "answer": "The process of improving customer satisfaction and loyalty",
+                            "correct": true
+                        },
+                        {
+                            "answer": "The process of decreasing customer satisfaction and loyalty",
+                            "correct": false
+                        },
+                        {
+                            "answer": "The process of increasing producer satisfaction and devotion",
+                            "correct": false
+                        },
+                        {
+                            "answer": "The process of enhancing customer disappointment and loyalty",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "User Experience Design is the process of improving customer satisfaction and loyalty because its primary goal is to enhance the overall user experience, leading to greater satisfaction and loyalty.",
+                    "finished": false
+                },
+                {
+                    "id": 1,
+                    "question": "Goal-Directed Design is understanding the needs, desires and contexts of people using products.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Goal-Directed Design is indeed about understanding the needs, desires, and contexts of people using products.",
+                    "finished": false
+                },
+                {
+                    "id": 2,
+                    "question": "A represented model is:",
+                    "answers": [
+                        {
+                            "answer": "How a user thinks a system works",
+                            "correct": false
+                        },
+                        {
+                            "answer": "How a system actually functions",
+                            "correct": false
+                        },
+                        {
+                            "answer": "How a system is presented to a user",
+                            "correct": true
+                        },
+                        {
+                            "answer": "How a system looks to a user",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "A represented model is how a system is presented to a user because it represents the user's perception of the system.",
+                    "finished": false
+                },
+                {
+                    "id": 3,
+                    "question": "A persona is a document describing how:",
+                    "answers": [
+                        {
+                            "answer": "A population will use your website",
+                            "correct": false
+                        },
+                        {
+                            "answer": "A specific person will use your website",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Certain types of people will user your website",
+                            "correct": true
+                        },
+                        {
+                            "answer": "A specific person will not use your website",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "A persona is a document describing how certain types of people will use your website.",
+                    "finished": false
+                },
+                {
+                    "id": 4,
+                    "question": "A Task Model shows what users do, the behaviors they adopt, and doesn't show the requirements at each stage",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "A Task Model shows what users do and the behaviors they adopt but does show the requirements at each stage.",
+                    "finished": false
+                },
+                {
+                    "id": 5,
+                    "question": "Pick the most correct option.",
+                    "answers": [
+                        {
+                            "answer": "How a website works is more important than how it looks, which is more important than how it feels",
+                            "correct": false
+                        },
+                        {
+                            "answer": "How a website feels is more important than how it looks, which is more important than how it works",
+                            "correct": true
+                        },
+                        {
+                            "answer": "How a website looks is more important than how it works, which is more important than how it feels",
+                            "correct": false
+                        },
+                        {
+                            "answer": "How a website looks is more important than how it feels, which is more important than how it works",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "The priority of how a website should be designed, according to user experience principles, is that how a website feels (its usability and user experience) is more important than how it looks, which, in turn, is more important than how it works.",
+                    "finished": false
+                },
+                {
+                    "id": 6,
+                    "question": "Cognitive dissonance is how the brain:",
+                    "answers": [
+                        {
+                            "answer": "Rationalizes two contradictory concepts",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Rationalizes two nonconflicting concepts",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Tries to keep its emotions in check",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Tries to believe something nonsensical",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Cognitive dissonance refers to how the brain tries to rationalize two contradictory concepts.",
+                    "finished": false
+                },
+                {
+                    "id": 7,
+                    "question": "Desire Lines is the path of great resistance and it is the easiest way to people to your preferred outcome.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Desire Lines represent the path of least resistance, making it the easiest way for people to reach their preferred outcome.",
+                    "finished": false
+                },
+                {
+                    "id": 8,
+                    "question": "The three elements of scarcity are:",
+                    "answers": [
+                        {
+                            "answer": "Frequent, exclusive and competition",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Infrequent, exclusive and competition",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Infrequent, unlimited, competition",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Frequent, unlimited, competition",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "The three elements of scarcity are infrequent, exclusive, and competition",
+                    "finished": false
+                },
+                {
+                    "id": 9,
+                    "question": "Commercial design is creating an interface that makes the users emotionally evolved in doing something that benefits:",
+                    "answers": [
+                        {
+                            "answer": "Society",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Themselves",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Themselves and the designer",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Themselves and society",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Commercial design aims to create an interface that emotionally engages users in doing something that benefits themselves and the designer",
+                    "finished": false
+                },    
+                {
+                    "id": 10,
+                    "question": "Flattery makes people less responsive to persuasion",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Flattery makes people more responsive to persuasion.",
+                    "finished": false
+                },
+                {
+                    "id": 11,
+                    "question": "You create desirability for a product by using:",
+                    "answers": [
+                        {
+                            "answer": "Secrecy, scarcity, identity, aesthetics and functionality",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Secrecy, excess, identity, aesthetics and functionality",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Openness, excess, identity, aesthetics and functionality",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Secrecy, scarcity, dissimilarity, aesthetics and functionality",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "To create desirability for a product, you use secrecy, scarcity, identity, aesthetics, and functionality",
+                    "finished": false
+                },
+                {
+                    "id": 12,
+                    "question": "Pick the most correct option.",
+                    "answers": [
+                        {
+                            "answer": "Hick's Law is about presenting information in a way that overwhelms people",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Hick’s Law is about presenting information that doesn’t overwhelm people",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Hick’s Law is about giving the user multiple options to make decision making easier",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Hick’s Law is about not giving the user multiple options to make decision making harder",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Hick's Law is about presenting information that doesn't overwhelm people, therefore reducing their cognitive load.",
+                    "finished": false
+                },
+                {
+                    "id": 13,
+                    "question": "Cognitive load is the amount of mental resources needed to understand something",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Cognitive load refers to the mental resources needed to process something.",
+                    "finished": false
+                },
+                {
+                    "id": 14,
+                    "question": "Which concept does Miller’s Law focus on?",
+                    "answers": [
+                        {
+                            "answer": "Chungus",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Spelunking",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Chunking",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Blocking",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Miller's Law focuses on the concept of chunking, which involves breaking information into smaller, manageable chunks.",
+                    "finished": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Chapter 3 - Web Trends",
+            "questions": [
+                {
+                    "id": 0,
+                    "question": "WebAssembly is:",
+                    "answers": [
+                        {
+                            "answer": "Proprietary software that generates a binary code format for executable programs",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Based on the structured and stack machine programming paradigms",
+                            "correct": true
+                        },
+                        {
+                            "answer": "A language that worsens performance for applications on web pages",
+                            "correct": false
+                        },
+                        {
+                            "answer": "A compiler that converts high-level programming languages down into machine language for browsers",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "WebAssembly is based on the structured and stack machine programming paradigms because it's a binary instruction format designed for safe and efficient execution on web browsers.",
+                    "finished": false
+                },
+                {
+                    "id": 1,
+                    "question": "WebAssembly is a replacement for JavaScript.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "WebAssembly is not a replacement for JavaScript; it's a complementary technology designed to work alongside JavaScript",
+                    "finished": false
+                },
+                {
+                    "id": 2,
+                    "question": "Micro Frontends are also referred to as:",
+                    "answers": [
+                        {
+                            "answer": "Frontend Monolith",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Micro Backend",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Frontend Pillar",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Macro Frontend",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Micro Frontends are also referred to as 'Frontend Monolith' because they are a way to break down a monolithic frontend into smaller, independently deployable parts.",
+                    "finished": false
+                },
+                {
+                    "id": 3,
+                    "question": "Pick the most correct option:",
+                    "answers": [
+                        {
+                            "answer": "Continuous Integration and Deployment consists of Continuous Integration, Continuous Delivery, and Continuous Deployment",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Continuous Integration and Deployment describes the process of manually building, testing and deploying code changes",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Continuous Integration and Deployment consists of Continuous Integration, Continuous Delivery, and Continuous Deployment",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Continuous Integration and Deployment is where an app has to manually be released to production",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Continuous Integration and Deployment consists of Continuous Integration, Continuous Delivery, and Continuous Deployment",
+                    "finished": false
+                },
+                {
+                    "id": 4,
+                    "question": "Low-Code is a method of creating applications using graphical tools but still give the user the option of writing code if they want to.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Low-Code allows users to create applications using graphical tools but still provides the option of writing code if desired.",
+                    "finished": false
+                },
+                {
+                    "id": 5,
+                    "question": "A design’s concept should solely be determined by the users",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "A design's concept should be determined by the users because user-centered design focuses on meeting user needs and preferences.",
+                    "finished": false
+                },
+                {
+                    "id": 6,
+                    "question": "Branding is how a company:",
+                    "answers": [
+                        {
+                            "answer": "Manipulates you",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Tries to engage with its audience and how it makes them feel",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Purposefully creates a negative image of themselves so that you stay away from them",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Does not engage with its audience",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Branding is how a company tries to engage with its audience and how it makes them feel.",
+                    "finished": false
+                },
+                {
+                    "id": 7,
+                    "question": "Pick the most correct option:",
+                    "answers": [
+                        {
+                            "answer": "Composition is the placement of visual elements on a page",
+                            "correct": true
+                        },
+                        {
+                            "answer": "A bad composition will create visual interest",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Composition is the deliberate placement of information in a way that overwhelms the user",
+                            "correct": false
+                        },
+                        {
+                            "answer": "A composition can only be complex",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Composition is indeed the placement of visual elements on a page",
+                    "finished": false
+                },
+                {
+                    "id": 8,
+                    "question": "You can create hierarchy with scaling, placement, and color:",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Hierarchy in design can be created through scaling, placement, and color.",
+                    "finished": false
+                },
+                {
+                    "id": 9,
+                    "question": "You define the success of a design through:",
+                    "answers": [
+                        {
+                            "answer": "Progressive Enhancement, Graceful Degradation, and Performance",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Accessibility, Usability, and Sustainability",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Progressive Enhancement, Usability, and Sustainability",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Accessibility, Graceful Degradation, and Performance",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "The success of a design is defined through Accessibility, Usability, and Sustainability.",
+                    "finished": false
+                },
+                {
+                    "id": 10,
+                    "question": "Postel’s Law follows the concept of:",
+                    "answers": [
+                        {
+                            "answer": "Be liberal in what you do, be conservative in what you accept from others",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Be progressive in what you do, be radical in what you accept from others",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Be conservative in what you do, be liberal in what you accept from others",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Be radical in what you do, be progressive in what you accept from others",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Postel's Law follows the concept of 'Be conservative in what you do, be liberal in what you accept from others'.",
+                    "finished": false
+                },
+                {
+                    "id": 11,
+                    "question": "Peak-end rule includes only positive peaks.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "The Peak-end rule includes both positive and negative peaks.",
+                    "finished": false
+                },
+                {
+                    "id": 12,
+                    "question": "Pick the most correct option:",
+                    "answers": [
+                        {
+                            "answer": "Progressive Enhancement is the access to very complex content and functionality",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Progressive Enhancement is where functions are progressively removed based on a client’s capability",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Progressive Enhancement is the access to simple content and functionality",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Progressive Enhancement is the focus on providing the user with more advanced criteria and provides fallbacks",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Progressive Enhancement involves providing access to simple content and functionality first, with more advanced features available for capable clients.",
+                    "finished": false
+                },
+                {
+                    "id": 13,
+                    "question": "Cognitive bias is a rationality in judgement that influences our decision-making abilities",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Cognitive bias refers to the irrationality in judgment that influences our decision-making abilities.",
+                    "finished": false
+                },
+                {
+                    "id": 14,
+                    "question": "",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "People tend to remember their positive experiences more clearly than their negative ones.",
+                    "finished": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Chapter 4 - Mobile Trends",
+            "questions": [
+                {
+                    "id": 0,
+                    "question": "One of Dieter Rams 10 Principles of good design include:",
+                    "answers": [
+                        {
+                            "answer": "Dishonesty",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Short-lasting",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Environmentally unfriendly",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Innovative",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : " - TRUE. One of Dieter Rams' 10 Principles of good design is 'Innovative' because good design often involves creative and forward-thinking solutions..",
+                    "finished": false
+                },
+                {
+                    "id": 1,
+                    "question": "Pick the most correct option:",
+                    "answers": [
+                        {
+                            "answer": "Affordances are relative to the system and its ability to interact with the user",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Affordances require attention and thought",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Affordances are relative to the individual and their ability to interact",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Affordances come from our understanding of our relationship with the virtual world",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Affordances in design are relative to the individual and their ability to interact because they depend on the user's perception and understanding of how elements can be used.",
+                    "finished": false
+                },
+                {
+                    "id": 2,
+                    "question": "Flat design is a UI design that focuses on using 2D elements to create form/function",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Flat design is indeed a UI design approach that focuses on using 2D elements to create form and function.",
+                    "finished": false
+                },
+                {
+                    "id": 3,
+                    "question": "Material Design is inspired by the:",
+                    "answers": [
+                        {
+                            "answer": "Virtual world",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Physical world",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Spiritual world",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Metaverse",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Material Design is inspired by the physical world, drawing inspiration from real-world materials and their behaviors.",
+                    "finished": false
+                },
+                {
+                    "id": 4,
+                    "question": "Which one of the following is part of the Human Interface design principle",
+                    "answers": [
+                        {
+                            "answer": "Metaphors",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Indirect Manipulation",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Aesthetic",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Semantics",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Metaphors are part of the Human Interface design principle because they provide familiar symbols and representations for users to understand and interact with digital interfaces.",
+                    "finished": false
+                },
+                {
+                    "id": 5,
+                    "question": "IOS uses Material Design and Android uses Human Interface",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "iOS typically follows Human Interface Guidelines (HIG), while Android often uses Material Design as their respective design principles.",
+                    "finished": false
+                },
+                {
+                    "id": 6,
+                    "question": "What makes good mobile site?",
+                    "answers": [
+                        {
+                            "answer": "Prioritizing aesthetics",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Adding complex features",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Using the latest design trends",
+                            "correct": false
+                        },
+                        {
+                            "answer": "UX Research",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "A good mobile site is made by prioritizing UX Research, ensuring that the design is based on user needs and behaviors.",
+                    "finished": false
+                },
+                {
+                    "id": 7,
+                    "question": "Which of the following is a context-aware learning rule?",
+                    "answers": [
+                        {
+                            "answer": "Space-series modelling",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Luck discovery",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Incremental learning and updating ",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Dynamic Segmentation",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : " Incremental learning and updating is a context-aware learning rule, as it involves adapting and updating knowledge based on changing contexts.",
+                    "finished": false
+                },
+                {
+                    "id": 8,
+                    "question": "Mobile AR is disadvantaged by the widely distributed base of hardware like smartphones and tablets",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Mobile AR is advantaged by the widely distributed base of hardware like smartphones and tablets because almost everyone has them.",
+                    "finished": false
+                },
+                {
+                    "id": 9,
+                    "question": "VR is:",
+                    "answers": [
+                        {
+                            "answer": "An immersive 2D environment that you can interact with",
+                            "correct": false
+                        },
+                        {
+                            "answer": "An environment you can only currently access through specialized equipment",
+                            "correct": true
+                        },
+                        {
+                            "answer": "An interface that overlays digital information with reality",
+                            "correct": false
+                        },
+                        {
+                            "answer": "An environment that anchors and overlays virtual objects to the real world",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "VR (Virtual Reality) is an environment you can currently access through specialized equipment, such as VR headsets.",
+                    "finished": false
+                },
+                {
+                    "id": 10,
+                    "question": "Which field is AR the most prominent in?",
+                    "answers": [
+                        {
+                            "answer": "Live Broadcast",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Daily Livelihood",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Gaming",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Military",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "AR (Augmented Reality) is most prominent in the field of Gaming, where it is widely used to enhance gaming experiences by overlaying digital elements on the real world.",
+                    "finished": false
+                },
+                {
+                    "id": 11,
+                    "question": "Context-aware applications use information about a person to improve their user experience",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Context-aware applications use information about a person to improve their user experience by personalizing content to their liking.",
+                    "finished": false
+                },
+                {
+                    "id": 12,
+                    "question": "You make consistent through:",
+                    "answers": [
+                        {
+                            "answer": "Visual, functional, and external consistencies",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Physical, functional and external inconsistencies",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Physical, function and internal consistencies",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Visual, functional and internal inconsistencies",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "You make consistency in design through visual, functional, and external consistencies, ensuring that elements look, behave, and are positioned consistently.",
+                    "finished": false
+                },
+                {
+                    "id": 13,
+                    "question": "Pick the most correct option:",
+                    "answers": [
+                        {
+                            "answer": "You should rely on color to differentiate between information and objects",
+                            "correct": false
+                        },
+                        {
+                            "answer": "You should never use color for communication",
+                            "correct": false
+                        },
+                        {
+                            "answer": "You should consider how your use of color is viewed in other countries",
+                            "correct": true
+                        },
+                        {
+                            "answer": "You should not think about how True Tone displays affect color",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "You should consider how your use of color is viewed in other countries to ensure cultural sensitivity and accessibility.",
+                    "finished": false
+                },
+                {
+                    "id": 14,
+                    "question": "Motion focuses on attention and maintains continuity through feedback and transitions",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Motion in design focuses on attention and maintains continuity through feedback and transitions.",
+                    "finished": false
+                }
+            ]
+        }
+    ]
+}

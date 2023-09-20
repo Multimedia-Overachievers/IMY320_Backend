@@ -1,0 +1,93 @@
+{
+    "name": "COS 333",
+    "chapters": [
+        {
+            "id": 0,
+            "name": "Chapter 1",
+            "questions": [
+                {
+                    "id": 0,
+                    "question": "",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "",
+                    "finished": false
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Chapter 2",
+            "questions": [
+                {
+                    "id": 0,
+                    "question": "",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "",
+                    "finished": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Chapter 3",
+            "questions": [
+                {
+                    "id": 0,
+                    "question": "",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "",
+                    "finished": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Chapter 4",
+            "questions": [
+                {
+                    "id": 0,
+                    "question": "",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "",
+                    "finished": false
+                }
+            ]
+        }
+    ]
+}
