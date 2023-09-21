@@ -3,11 +3,11 @@
     "chapters": [
         {
             "id": 0,
-            "name": "Chapter 1",
+            "name": "Chapter 1 - What is Interaction Design?",
             "questions": [
                 {
                     "id": 0,
-                    "question": "",
+                    "question": "You cannot design for a user experience, you can only create a user experience",
                     "answers": [
                         {
                             "answer": "True",
@@ -15,21 +15,501 @@
                         },
                         {
                             "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "You can indeed design for a user experience by intentionally shaping the product or system's features, usability, and interactions to create a desired user experience.",
+                    "finished": false
+                },
+                {
+                    "id": 1,
+                    "question": "Pick the most correct option:",
+                    "answers": [
+                        {
+                            "answer": "Convergence is where one device can do one thing poorly",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Convergence is where one device can do one thing very well",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Convergence is where one device can do multiple things very well",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Convergence is where one device can do multiple things but not very well",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Convergence refers to combining multiple functions or capabilities into a single device, but often compromises on performance in each area to achieve versatility.",
+                    "finished": false
+                },
+                {
+                    "id": 2,
+                    "question": "Which one of the following is a process in Interaction Design:",
+                    "answers": [
+                        {
+                            "answer": "Establish problems",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Design and Develop alternatives",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Creating task models",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Documenting",
                             "correct": false
                         }
                     ],
-                    "explanation" : "",
+                    "explanation" : "Designing and developing alternative solutions is a crucial step in the Interaction Design process, where various design options are explored and refined.",
+                    "finished": false
+                },
+                {
+                    "id": 3,
+                    "question": "You should go to great lengths to make a user-friendly product because:",
+                    "answers": [
+                        {
+                            "answer": "One size fits all",
+                            "correct": false
+                        },
+                        {
+                            "answer": "It’s important to make sure a product fits in with what people want and need",
+                            "correct": true
+                        },
+                        {
+                            "answer": "You shouldn’t identify any incorrect assumptions",
+                            "correct": false
+                        },
+                        {
+                            "answer": "You don’t need to be attuned to people’s capabilities",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Creating a user-friendly product is essential because it ensures that the product aligns with users' needs and preferences, ultimately leading to higher satisfaction and usability.",
+                    "finished": false
+                },
+                {
+                    "id": 4,
+                    "question": "When designing for your users you have to take the three Ws into account which are:",
+                    "answers": [
+                        {
+                            "answer": "Who, What, Where",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Who, Why, Where",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Who, What, When",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Why, When, Where",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "When designing for users, you should consider the three Ws: Who, What, and When. Understanding the user demographics (Who), their tasks and goals (What), and the context and timing of use (When) is critical.",
+                    "finished": false
+                },
+                {
+                    "id": 5,
+                    "question": "Interaction design is a discipline that is concerned with the design, evaluation and implementation of systems that are used by humans",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Interaction design focuses on creating systems and interfaces that are usable and efficient for human users.",
+                    "finished": false
+                },
+                {
+                    "id": 6,
+                    "question": "Which of the following fields applies knowledge from Interaction Design?",
+                    "answers": [
+                        {
+                            "answer": "Ubiquitous computing",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Cognitive Economics",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Computer-supported medicine",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Human emotions",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Ubiquitous computing involves designing systems and interfaces that seamlessly integrate into users' everyday lives, which draws heavily from principles of Interaction Design.",
+                    "finished": false
+                },
+                {
+                    "id": 7,
+                    "question": "Disabilities can be classified as:",
+                    "answers": [
+                        {
+                            "answer": "Permanent, physical, and cognitive",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Sensory, physical, and cognitive",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Permanent, temporary and cognitive",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Sensory, temporary, and situational",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Disabilities can be categorized into sensory, physical, and cognitive impairments, and considering these categories is essential for designing inclusive and accessible products.",
+                    "finished": false
+                },
+                {
+                    "id": 8,
+                    "question": "When designing a product you have to consider the people you’re designing for.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "User-centered design involves actively considering the needs, preferences, and abilities of the target audience during the design process.",
+                    "finished": false
+                },
+                {
+                    "id": 9,
+                    "question": "Which of the following is a Usability Goal?",
+                    "answers": [
+                        {
+                            "answer": "Speed",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Utility",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Motivating",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Accuracy",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Usability goals include factors like utility, efficiency, and satisfaction, all of which contribute to a product's overall usability.",
+                    "finished": false
+                },
+                {
+                    "id": 10,
+                    "question": "Which of the following is not a Design Principle?",
+                    "answers": [
+                        {
+                            "answer": "Visibility",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Affordance",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Constraints",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Efficiency ",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Efficiency is typically considered a usability attribute rather than a design principle. Design principles are more about guiding principles for creating effective and aesthetically pleasing designs.",
+                    "finished": false
+                },
+                {
+                    "id": 11,
+                    "question": "Pick the most correct option:",
+                    "answers": [
+                        {
+                            "answer": "Design Principles are only the don’ts of Interaction Design",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Design Principles tell you what not to provide on an interface",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Design Principles are derived from a mix of theory based knowledge, experience and common-sense",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Design Principles are a generalized abstraction for thinking about only one aspect of design",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Design principles are often formulated based on a combination of design theory, practical experience, and common-sense guidelines to inform effective design decisions.",
+                    "finished": false
+                },
+                {
+                    "id": 12,
+                    "question": "You only learn from a bad design.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "While bad designs can provide valuable lessons and insights, there is also much to learn from successful designs and best practices in the field of design.",
+                    "finished": false
+                },
+                {
+                    "id": 13,
+                    "question": "Incorrect design can result in a disability.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Poorly designed products or environments can create barriers and limitations for individuals, effectively resulting in a disability for those users.",
+                    "finished": false
+                },
+                {
+                    "id": 14,
+                    "question": "Which one of the following falls under Interaction Design?",
+                    "answers": [
+                        {
+                            "answer": "Hardware design",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Product-centered design",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Web design",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Emotional design",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Web design is a subset of Interaction Design, focusing on creating user interfaces and interactions for websites.",
                     "finished": false
                 }
             ]
         },
         {
             "id": 1,
-            "name": "Chapter 2",
+            "name": "Chapter 2 - The Process of Interaction Design",
             "questions": [
                 {
                     "id": 0,
-                    "question": "",
+                    "question": "Which one of the following is an approach to Interaction Design?",
+                    "answers": [
+                        {
+                            "answer": "System design",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Accessibility design",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Hardware-centered design",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Stupid design",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "System design can be considered an approach to Interaction Design because it involves designing the overall structure and organization of a system, which includes the user interfaces and interactions within that system.",
+                    "finished": false
+                },
+                {
+                    "id": 1,
+                    "question": "What order do the phases in the Double Diamond of Design happen?",
+                    "answers": [
+                        {
+                            "answer": "Define, discover, develop and design",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Discover, define, develop, and design",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Design, develop, define and discover",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Discover, define, develop and design",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "The Double Diamond design process typically starts with discovery to understand the problem, followed by defining the problem, developing solutions, and finally, designing the detailed solution.",
+                    "finished": false
+                },
+                {
+                    "id": 2,
+                    "question": "It’s important to involve users in design because it:",
+                    "answers": [
+                        {
+                            "answer": "Keeps app expectations unrealistic",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Helps to make surprises",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Makes users stakeholders",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Makes users less likely to forgive or accept problems",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Involving users in the design process helps make them stakeholders in the product, which leads to a sense of ownership and a better understanding of their needs and expectations.",
+                    "finished": false
+                },
+                {
+                    "id": 3,
+                    "question": "As a full time member of a design team, you provide constant input but you loose touch with actual users.",
+                    "answers": [
+                        {
+                            "answer": "True ",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Full-time designers may become detached from real users over time, making it essential to regularly gather user feedback and stay connected to user needs.",
+                    "finished": false
+                },
+                {
+                    "id": 4,
+                    "question": "User-centered approach is based on iterative design.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "A user-centered approach involves iterative design, where designs are continually refined based on user feedback and testing.",
+                    "finished": false
+                },
+                {
+                    "id": 5,
+                    "question": "Where do alternative ideas come from?",
+                    "answers": [
+                        {
+                            "answer": "Inspiration from similar ideas",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Cross fertilization of users",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Product regression",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Designers",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Alternative design ideas often draw inspiration from existing ideas, concepts, or similar designs, which can be modified or improved upon.",
+                    "finished": false
+                },
+                {
+                    "id": 6,
+                    "question": "The Google Design Sprint consists of:",
+                    "answers": [
+                        {
+                            "answer": "Pack, Draw, Prototype, Iterate",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Unpack, Sketch, Decide, Prototype, Test",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Unpack, Sketch, Decide, Iterate",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Pack, Sketch, Prototype, Iterate",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "The Google Design Sprint follows this sequence of steps: Understand the problem (Unpack), Generate ideas (Sketch), Make decisions (Decide), Create a prototype, and Test with users.",
+                    "finished": false
+                },
+                {
+                    "id": 7,
+                    "question": "Which one of the following is a phase in the ‘Research in the Wild‘ lifecycle model?",
+                    "answers": [
+                        {
+                            "answer": "Practical",
+                            "correct": false
+                        },
+                        {
+                            "answer": "In Sit Studies",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Design",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Nature",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "'Research in the Wild' typically includes phases like Observation, Idea Generation, Design, and Evaluation, where design is a crucial step in the process.",
+                    "finished": false
+                },
+                {
+                    "id": 8,
+                    "question": "Interaction design focuses on behaviors that cannot be measured",
                     "answers": [
                         {
                             "answer": "True",
@@ -37,28 +517,141 @@
                         },
                         {
                             "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Interaction design focuses on designing user experiences, which can indeed be measured through various metrics such as usability, efficiency, and user satisfaction.",
+                    "finished": false
+                },
+                {
+                    "id": 9,
+                    "question": "Targeted products are associated with specific roles",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
                             "correct": false
                         }
                     ],
-                    "explanation" : "",
+                    "explanation" : "Targeted products are designed to meet the specific needs and roles of particular user groups or individuals.",
+                    "finished": false
+                },    
+                {
+                    "id": 10,
+                    "question": "Why should you integrate agile software development?",
+                    "answers": [
+                        {
+                            "answer": "It incorporates loose iterations",
+                            "correct": false
+                        },
+                        {
+                            "answer": "It champions late and irregular feedback",
+                            "correct": false
+                        },
+                        {
+                            "answer": "It handles emergent constraints",
+                            "correct": false
+                        },
+                        {
+                            "answer": "It strikes a balance between flexibility and structure",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Agile development is known for its adaptability and flexibility while providing a structured framework for software development projects.",
+                    "finished": false
+                },
+                {
+                    "id": 11,
+                    "question": "Conceptual models are specific to certain needs.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Conceptual models in Interaction Design are created to represent how users understand and conceptualize a system or product, which can vary based on specific user needs and contexts.",
+                    "finished": false
+                },
+                {
+                    "id": 12,
+                    "question": "The System Design approach is a:",
+                    "answers": [
+                        {
+                            "answer": "Look at things only from the front-end",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Look at things from behind the scenes",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Focus only on the visuals of a product",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Focus only keeping a system safe and secure",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "System design involves designing the underlying structure and functionality of a system, which often involves looking at the behind-the-scenes aspects of a product or system.",
+                    "finished": false
+                },
+                {
+                    "id": 13,
+                    "question": "Part time involvement consists of:",
+                    "answers": [
+                        {
+                            "answer": "Short term and long term involvement",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Short term and medium term involvement ",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Medium term and long term involvement ",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Short term and fast term involvement",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Short-term and long-term involvement typically refer to varying levels of engagement in a project, where short-term may involve specific tasks, and long-term involves more sustained contributions.",
+                    "finished": false
+                },
+                {
+                    "id": 14,
+                    "question": "In the Interaction Design process there is only ever one iteration of a design",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Interaction Design typically involves multiple iterations of design, where designs are refined and improved based on user feedback and testing, to create a better user experience.",
                     "finished": false
                 }
             ]
         },
         {
             "id": 2,
-            "name": "Chapter 3",
-            "questions": [
-                
-            ]
-        },
-        {
-            "id": 3,
-            "name": "Chapter 4",
+            "name": "Chapter 3 - Conceptualizing Interaction",
             "questions": [
                 {
                     "id": 0,
-                    "question": "",
+                    "question": "Before releasing a product you don’t need to make a proof of concept",
                     "answers": [
                         {
                             "answer": "True",
@@ -66,10 +659,616 @@
                         },
                         {
                             "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "It's important to create a proof of concept before releasing a product to validate its feasibility and functionality.",
+                    "finished": false
+                },
+                {
+                    "id": 1,
+                    "question": "Why do we need design conceptualization?",
+                    "answers": [
+                        {
+                            "answer": "To scrutinize vague ideas and assumptions about the benefits of a proposed product",
+                            "correct": true
+                        },
+                        {
+                            "answer": "To see how much money the idea will bring in",
+                            "correct": false
+                        },
+                        {
+                            "answer": "To determine how quickly it will take to develop a product",
+                            "correct": false
+                        },
+                        {
+                            "answer": "To figure out who the product should be catered to",
                             "correct": false
                         }
                     ],
-                    "explanation" : "",
+                    "explanation" : "Design conceptualization helps clarify and evaluate ideas, especially assumptions about a product's potential benefits.",
+                    "finished": false
+                },
+                {
+                    "id": 2,
+                    "question": "An assumption is stating something to be true when it’s still open to question",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "An assumption is making a statement without concrete evidence, and it remains open to questioning or verification.",
+                    "finished": false
+                },
+                {
+                    "id": 3,
+                    "question": "How does one avoid incorrect assumptions/claims?",
+                    "answers": [
+                        {
+                            "answer": "Looking at a statement only from one angle",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Looking at all the facts",
+                            "correct": true
+                        },
+                        {
+                            "answer": "By not asking any questions about any of the users",
+                            "correct": false
+                        },
+                        {
+                            "answer": "By overexaggerating the problem",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "To avoid incorrect assumptions or claims, it's essential to consider all available facts and evidence rather than relying on a single perspective.",
+                    "finished": false
+                },
+                {
+                    "id": 4,
+                    "question": "Pick the most correct option:",
+                    "answers": [
+                        {
+                            "answer": "Conceptualizing helps design teams to ask questions about how a conceptual model will be understood by users",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Conceptualizing makes teams become narrowly focused early on in the design process",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Conceptualizing makes teams struggle on establishing on a agreed set of terms",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Conceptualizing prevents a team from being able to generate a large set of ideas",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Conceptualization in design allows teams to explore and understand how users will perceive and interact with the conceptual model, leading to better design decisions.",
+                    "finished": false
+                },
+                {
+                    "id": 5,
+                    "question": "A problem space needs to be converted into a design space otherwise will never become a solution",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "To create a solution, a problem space must be converted into a design space where designers can develop solutions and concepts.",
+                    "finished": false
+                },
+                {
+                    "id": 6,
+                    "question": "Which one of the following is a component of a conceptual model?",
+                    "answers": [
+                        {
+                            "answer": "Libraries",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Concepts that people are hardly ever exposed to",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Relationships and mapping between concepts",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Task-domain objects",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "A conceptual model includes the relationships and mappings between different concepts to help users understand how elements in a system relate to each other.",
+                    "finished": false
+                },
+                {
+                    "id": 7,
+                    "question": "A conceptual model is a low-level description of how a system operates.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "A conceptual model provides a high-level, abstract representation of a system's functionality and organization, not a low-level description.",
+                    "finished": false
+                },
+                {
+                    "id": 8,
+                    "question": "The best conceptual models are those that appear:",
+                    "answers": [
+                        {
+                            "answer": "Obtuse and difficult",
+                            "correct": true
+                        },
+                        {
+                            "answer": "To have operations that are unintuitive to use",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Obvious and simple",
+                            "correct": false
+                        },
+                        {
+                            "answer": "To have a lot of operations",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Effective conceptual models are often those that are clear, intuitive, and straightforward, making them easy for users to understand.",
+                    "finished": false
+                },
+                {
+                    "id": 9,
+                    "question": "Interaction is what the user is doing when working with a system",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Interaction refers to the actions and activities that users perform when using a system or interface.",
+                    "finished": false
+                },
+                {
+                    "id": 10,
+                    "question": "Pick the most correct option:",
+                    "answers": [
+                        {
+                            "answer": "An interface metaphor is designed to be similar to a virtual entity",
+                            "correct": false
+                        },
+                        {
+                            "answer": "An interface metaphor is only based on an object",
+                            "correct": false
+                        },
+                        {
+                            "answer": "An interface metaphor exploit a user’s knowledge of what they’re familiar with to understand what they’re not familiar with",
+                            "correct": true
+                        },
+                        {
+                            "answer": "An interface metaphor is only based on an activity",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Interface metaphors leverage users' familiarity with certain concepts or objects to help them understand new and unfamiliar aspects of a system.",
+                    "finished": false
+                },
+                {
+                    "id": 11,
+                    "question": "What is the effect of using an interface metaphor?",
+                    "answers": [
+                        {
+                            "answer": "Makes learning a new system more confusing",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Prevents users from understanding an underlying conceptual model",
+                            "correct": false
+                        },
+                        {
+                            "answer": "It always feels too gimmicky",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Makes learning a new system easier",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Interface metaphors can facilitate user understanding and learning by connecting unfamiliar system elements to familiar concepts.",
+                    "finished": false
+                },
+                {
+                    "id": 12,
+                    "question": "Which one of the following is a problem with an interface metaphor?",
+                    "answers": [
+                        {
+                            "answer": "It reinforces conventional and cultural rules",
+                            "correct": false
+                        },
+                        {
+                            "answer": "It restricts how designers conceptualize a problem space",
+                            "correct": false
+                        },
+                        {
+                            "answer": "It merges well with design principles",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Users can understand the whole system through the metaphor",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Interface metaphors can limit designers' creativity by constraining their thinking to fit within the metaphor, potentially hindering innovation.",
+                    "finished": false
+                },
+                {
+                    "id": 13,
+                    "question": "Pick the most correct option:",
+                    "answers": [
+                        {
+                            "answer": "Instructing is where the system carries out a task on its own",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Conversing is an having a conversation with another human",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Manipulating the action of changing the physical environment through some action",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Exploring involves moving through a virtual environment",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "In the context of interaction design, exploring typically refers to the user's actions of navigating and interacting within a virtual or digital environment.",
+                    "finished": false
+                },
+                {
+                    "id": 14,
+                    "question": "A vision is a driving force that frames research and development",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "A vision provides direction and motivation, guiding research and development efforts to achieve a specific goal or outcome in the design and development process.",
+                    "finished": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Chapter 4 - Cognitive Aspects",
+            "questions": [
+                {
+                    "id": 0,
+                    "question": "Understanding cognition helps provide us knowledge about what users can and cannot do.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Studying cognition helps us gain insights into the mental processes of users, which in turn informs what users are capable of and their limitations in various tasks.",
+                    "finished": false
+                },
+                {
+                    "id": 1,
+                    "question": "Pick the most correct option:",
+                    "answers": [
+                        {
+                            "answer": "Humans are capable of doing multi-tasking",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Depending on the nature of the task, humans can do multitasking",
+                            "correct": false
+                        },
+                        {
+                            "answer": "In a heavy task you’re more likely to be distracted",
+                            "correct": true
+                        },
+                        {
+                            "answer": "In a light task it’s hard to focus when you’re faced with multiple distractions",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Heavy tasks can lead to increased cognitive load, making it more likely for users to become distracted when faced with multiple stimuli or tasks.",
+                    "finished": false
+                },
+                {
+                    "id": 2,
+                    "question": "You design for Attention by:",
+                    "answers": [
+                        {
+                            "answer": "Making information stand out",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Giving users a lot of information on an interface",
+                            "correct": false
+                        },
+                        {
+                            "answer": "By not giving users different ways of switching between tasks",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Display all pieces of information, even if it’s not relevant",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Designing to capture users' attention often involves making important information visually prominent so that it stands out from less important elements.",
+                    "finished": false
+                },
+                {
+                    "id": 3,
+                    "question": "Perception is the ability to gain information from our surroundings using vision, hearing, taste, smell, and touch",
+                    "answers": [
+                        {
+                            "answer": "Virtual world",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Physical world",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Perception involves using sensory input from various senses to understand and interpret information from the environment.",
+                    "finished": false
+                },
+                {
+                    "id": 4,
+                    "question": "Pick the most correct option:",
+                    "answers": [
+                        {
+                            "answer": "Icons should be hard to distinguish meaning from",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Borders and spacing should be used to group information",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Sounds should be unclear",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Buttons should feel unobvious",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Using borders and spacing to group related information is a common design principle to improve the visual organization and clarity of interfaces.",
+                    "finished": false
+                },
+                {
+                    "id": 5,
+                    "question": "The less attention you pay something means the less likely it is to be remembered.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Attention plays a crucial role in the encoding and subsequent recall of information. Information that receives less attention is less likely to be remembered.",
+                    "finished": false
+                },
+                {
+                    "id": 6,
+                    "question": "You design for Memory by:",
+                    "answers": [
+                        {
+                            "answer": "Promoting recognition over recall",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Providing users with few ways of encoding",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Overloading memory with simple tasks",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Giving the user as few options as possible",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Designing for memory involves making information easily recognizable, reducing the need for users to recall information from memory.",
+                    "finished": false
+                },
+                {
+                    "id": 7,
+                    "question": "Incidental learning is much harder than intentional learning",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Incidental learning, which occurs unintentionally while focusing on other tasks, is generally less challenging than intentional learning, where the learner actively seeks and engages with information.",
+                    "finished": false
+                },
+                {
+                    "id": 8,
+                    "question": "Pick the most correct option:",
+                    "answers": [
+                        {
+                            "answer": "People learn by copying",
+                            "correct": false
+                        },
+                        {
+                            "answer": "People learn by watching",
+                            "correct": false
+                        },
+                        {
+                            "answer": "People learn by listening",
+                            "correct": false
+                        },
+                        {
+                            "answer": "People learn by doing",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Active learning through doing or hands-on experience is a highly effective way for people to acquire knowledge and skills.",
+                    "finished": false
+                },
+                {
+                    "id": 9,
+                    "question": "A deep mental model is:",
+                    "answers": [
+                        {
+                            "answer": "The underlying knowledge of a system and how it functions",
+                            "correct": true
+                        },
+                        {
+                            "answer": "The surface level knowledge of how you think a system works",
+                            "correct": false
+                        },
+                        {
+                            "answer": "The surface level knowledge on how a system actually functions",
+                            "correct": false
+                        },
+                        {
+                            "answer": "The underlying knowledge of how you think a system works",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "A deep mental model represents a comprehensive understanding of a system's underlying principles and functionality.",
+                    "finished": false
+                },
+                {
+                    "id": 10,
+                    "question": "Most people have deep mental models.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "It is more common for people to have surface-level or shallow mental models of systems, especially if they lack in-depth knowledge or experience with those systems.",
+                    "finished": false
+                },
+                {
+                    "id": 11,
+                    "question": "How can UX be designed to help people build better mental models?",
+                    "answers": [
+                        {
+                            "answer": "By providing obtuse instructions",
+                            "correct": true
+                        },
+                        {
+                            "answer": "By giving tutorials",
+                            "correct": false
+                        },
+                        {
+                            "answer": "By excluding affordances in the interface",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Removing online videos and chatbots when users need help",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Providing tutorials and guidance in user interfaces can help users build better mental models by explaining how a system works and how to use it effectively.",
+                    "finished": false
+                },
+                {
+                    "id": 12,
+                    "question": "Bridging the gulf of evaluation and execution helps to reduce cognitive effort",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Reducing the cognitive gap between a user's actions (execution) and their understanding of the system's response (evaluation) can make interactions more efficient and less cognitively demanding.",
+                    "finished": false
+                },
+                {
+                    "id": 13,
+                    "question": "The order the human processing model works in is as follows:",
+                    "answers": [
+                        {
+                            "answer": "Encoding, comparison, response selection, response execution",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Response selection, encoding, comparison, response execution",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Response execution, response selection, comparison, encoding",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Comparison, encoding, response execution, response selection",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "The typical sequence involves encoding information, comparing it to mental models, selecting a response, and executing that response.",
+                    "finished": false
+                },
+                {
+                    "id": 14,
+                    "question": "One way to externalize cognition is to allow for computational offloading",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Computational offloading involves using external tools or systems to assist with cognitive tasks, reducing the cognitive load on users.",
                     "finished": false
                 }
             ]

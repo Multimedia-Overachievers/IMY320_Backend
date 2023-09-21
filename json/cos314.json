@@ -3,11 +3,163 @@
     "chapters": [
         {
             "id": 0,
-            "name": "Chapter 1",
+            "name": "Chapter 1 - Overview of Reasoning Techniques",
             "questions": [
                 {
                     "id": 0,
-                    "question": "",
+                    "question": "Pick the most correct option:",
+                    "answers": [
+                        {
+                            "answer": "Real world applications only use inductive learning",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Inductive learning allows for routine use",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Deductive reasoning allows for creativity and predictions",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Real world applications use both inductive learning and deductive reasoning",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Real-world applications often involve a combination of inductive learning, which helps generalize from specific data, and deductive reasoning, which involves drawing conclusions based on established rules or premises.",
+                    "finished": false
+                },
+                {
+                    "id": 1,
+                    "question": "Which of the following is an example of invalid deductive reasoning?",
+                    "answers": [
+                        {
+                            "answer": "All canine animals have four legs, all dogs are canines. Therefore, all dogs have four legs",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Animals need to breath to live. You’re an animal. Therefore, you need to breathe to live",
+                            "correct": false
+                        },
+                        {
+                            "answer": "All kids like burgers. John likes hotdogs. Therefore, John is not a kid",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Every dog is a reptile. Every reptile is cold-blooded. Therefore, every dog is cold-blooded",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "This is an example of invalid deductive reasoning because it makes an incorrect conclusion based on a general statement (all kids like burgers) and a specific case (John likes hotdogs), which does not logically lead to the conclusion that John is not a kid.",
+                    "finished": false
+                },
+                {
+                    "id": 2,
+                    "question": "Induction is:",
+                    "answers": [
+                        {
+                            "answer": "A move from the specific to the general",
+                            "correct": true
+                        },
+                        {
+                            "answer": "A move from the general to the specific",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Deriving a conclusion through facts and theories",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Developing a hypothesis through observations and facts",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Induction involves drawing general conclusions or patterns from specific observations or data.",
+                    "finished": false
+                },
+                {
+                    "id": 3,
+                    "question": "A tax-calculator uses deductive reasoning.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Tax calculators typically use deductive reasoning to apply tax rules and formulas to specific financial information in order to calculate tax amounts.",
+                    "finished": false
+                },
+                {
+                    "id": 4,
+                    "question": "Machine learning uses:",
+                    "answers": [
+                        {
+                            "answer": "Deductive reasoning",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Inductive learning",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Deductive learning",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Deductive reasoning and inductive learning",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Machine learning combines deductive reasoning (when defining algorithms and models) and inductive learning (when generalizing patterns from data) to make predictions or decisions.",
+                    "finished": false
+                },
+                {
+                    "id": 5,
+                    "question": "Pick the most correct option:",
+                    "answers": [
+                        {
+                            "answer": "Inductive learning makes generalization based on certain facts in the data",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Conclusions drawn through inductive learning are always true",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Inductive learning works best in a situation where there is a lot of noisy data",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Hypotheses in inductive learning are fully formed upfront",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Inductive learning is well-suited for situations with noisy data because it can find patterns and generalizations even in the presence of data imperfections.",
+                    "finished": false
+                },
+                {
+                    "id": 6,
+                    "question": "Artificial Neural Networks and Decision Trees use inductive learning",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Artificial Neural Networks and Decision Trees are machine learning models that rely on inductive learning to make predictions or classifications based on data.",
+                    "finished": false
+                },
+                {
+                    "id": 7,
+                    "question": "In a fully observable environment an agent goes not have complete access to the complete state of the environment.",
                     "answers": [
                         {
                             "answer": "True",
@@ -15,21 +167,325 @@
                         },
                         {
                             "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "In a fully observable environment, the agent may have limitations or partial access to the entire state, which can affect decision-making.",
+                    "finished": false
+                },
+                {
+                    "id": 8,
+                    "question": "",
+                    "answers": [
+                        {
+                            "answer": "Where the outcome of an action cannot be determined by the current state",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Where there is a unique next state for each state-action pair",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Is not governed by a set of rules",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Where the next state can be determined by a probability distribution",
                             "correct": false
                         }
                     ],
-                    "explanation" : "",
+                    "explanation" : "Deterministic environments are those in which the outcome of an action is entirely determined by the current state and the action taken, leading to a unique next state.",
+                    "finished": false
+                },
+                {
+                    "id": 9,
+                    "question": "Pick the most correct option:",
+                    "answers": [
+                        {
+                            "answer": "In a static environment the agent can only rely on a fixed set of rules and actions",
+                            "correct": true
+                        },
+                        {
+                            "answer": "In a dynamic environment an agent does not have to keep track of the environment",
+                            "correct": false
+                        },
+                        {
+                            "answer": "In a semi dynamic environment only the environment changes but not the agent’s performance score",
+                            "correct": false
+                        },
+                        {
+                            "answer": "In a static environment an environment can change while an agent is contemplating",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "In a static environment, the rules and conditions typically remain constant, and the agent's actions are based on a fixed set of rules.",
+                    "finished": false
+                },
+                {
+                    "id": 10,
+                    "question": "A discrete environment is where:",
+                    "answers": [
+                        {
+                            "answer": "The state space and action space are well-defined",
+                            "correct": true
+                        },
+                        {
+                            "answer": "There are an unlimited number of possible states and actions",
+                            "correct": false
+                        },
+                        {
+                            "answer": "The state space is continuous",
+                            "correct": false
+                        },
+                        {
+                            "answer": "The transitions between states are not well-defined",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "In a discrete environment, both the state space (possible states) and action space (possible actions) are clearly defined and finite.",
+                    "finished": false
+                },
+                {
+                    "id": 11,
+                    "question": "A single-agent environment is:",
+                    "answers": [
+                        {
+                            "answer": "An environment that has multiple agents in it",
+                            "correct": false
+                        },
+                        {
+                            "answer": "An environment that only has one agent in it",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Where there is more communication that occurs",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Competitive or cooperative",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "In a single-agent environment, there is only one agent interacting with the environment, as opposed to multiple agents.",
+                    "finished": false
+                },
+                {
+                    "id": 12,
+                    "question": "An agent doing a crossword puzzle is a multi-agent environment",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Crossword puzzles typically involve interactions with other agents (other people) who create or solve the puzzles, making it a multi-agent environment.",
+                    "finished": false
+                },
+                {
+                    "id": 13,
+                    "question": "The travelling salesman problem is an example of the following class of problem:",
+                    "answers": [
+                        {
+                            "answer": "P class",
+                            "correct": false
+                        },
+                        {
+                            "answer": "NP - Non-deterministic",
+                            "correct": false
+                        },
+                        {
+                            "answer": "NP-Hard",
+                            "correct": true
+                        },
+                        {
+                            "answer": "NP-Complete",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "The traveling salesman problem is known to be an NP-Hard problem, indicating that it is computationally challenging and belongs to a class of difficult problems.",
+                    "finished": false
+                },
+                {
+                    "id": 14,
+                    "question": "The P class of problem can be solved in polynomial time.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Problems in the P class are those that can be solved in polynomial time, making them computationally tractable.",
                     "finished": false
                 }
             ]
         },
         {
             "id": 1,
-            "name": "Chapter 2",
+            "name": "Chapter 2 - State Space Representation and Search",
             "questions": [
                 {
                     "id": 0,
-                    "question": "",
+                    "question": "An admissible algorithm is:",
+                    "answers": [
+                        {
+                            "answer": "An algorithm guaranteed to find the shortest path",
+                            "correct": true
+                        },
+                        {
+                            "answer": "A heuristic that doesn’t overestimate the cost to the goal",
+                            "correct": false
+                        },
+                        {
+                            "answer": "An algorithm guaranteed to not always find the shortest path",
+                            "correct": false
+                        },
+                        {
+                            "answer": "A heuristic that overestimates the cost to the goal",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "An admissible algorithm will always find the optimal solution or the shortest path if one exists.",
+                    "finished": false
+                },
+                {
+                    "id": 1,
+                    "question": "A state space is a set of all the possibilities that a system or problem can be in.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "A state space encompasses all possible states or configurations that a system or problem can take.",
+                    "finished": false
+                },
+                {
+                    "id": 2,
+                    "question": "The travelling salesman problem would best be represented as:",
+                    "answers": [
+                        {
+                            "answer": "Tree",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Linked List",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Array",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Graph",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "The traveling salesman problem involves finding the shortest path in a network of cities and can be accurately represented as a graph.",
+                    "finished": false
+                },
+                {
+                    "id": 3,
+                    "question": "We generate state space at run-time because:",
+                    "answers": [
+                        {
+                            "answer": "Some problems have search spaces that are very small",
+                            "correct": false
+                        },
+                        {
+                            "answer": "We don’t know the whole state space beforehand",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Because computational resources aren’t important",
+                            "correct": false
+                        },
+                        {
+                            "answer": "A state can never change",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "State spaces are often generated dynamically during problem-solving because the entire state space may be unknown or too large to precompute.",
+                    "finished": false
+                },
+                {
+                    "id": 4,
+                    "question": "A graph is used to represent a state space if:",
+                    "answers": [
+                        {
+                            "answer": "If a state in a solution space can only be visited once",
+                            "correct": false
+                        },
+                        {
+                            "answer": "When moves cannot be undone",
+                            "correct": false
+                        },
+                        {
+                            "answer": "There is only one starting point and one ending goal",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Where there’s a cyclic relationship",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Graphs are suitable for representing state spaces when there are cyclic relationships or loops between states.",
+                    "finished": false
+                },
+                {
+                    "id": 5,
+                    "question": "A Depth First Search uses a stack to maintain nodes.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Depth First Search (DFS) typically uses a stack (or recursion) to maintain nodes as it explores deeper into the search tree.",
+                    "finished": false
+                },
+                {
+                    "id": 6,
+                    "question": "Which search guarantees the shortest path to the goal?",
+                    "answers": [
+                        {
+                            "answer": "Depth First Search",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Depth First Search with Iterative Deepening",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Breath First Search",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Local Search",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Depth First Search with Iterative Deepening is a complete search algorithm that guarantees finding the shortest path to the goal.",
+                    "finished": false
+                },
+                {
+                    "id": 7,
+                    "question": "Breadth First Search has a good branching factor.",
                     "answers": [
                         {
                             "answer": "True",
@@ -37,10 +493,154 @@
                         },
                         {
                             "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Breadth First Search (BFS) tends to have a good branching factor because it explores all nodes at the current level before moving to the next level.",
+                    "finished": false
+                },
+                {
+                    "id": 8,
+                    "question": "Pick the most correct option:",
+                    "answers": [
+                        {
+                            "answer": "A heuristic is only used when a search space is small",
+                            "correct": false
+                        },
+                        {
+                            "answer": "A heuristic is a function that inefficiently guides us towards the goal",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Heuristics are considered to be weak",
+                            "correct": true
+                        },
+                        {
+                            "answer": "If a heuristic is not admissible it means that it will find the optimal path quicker",
                             "correct": false
                         }
                     ],
-                    "explanation" : "",
+                    "explanation" : "Heuristics are simplifications or approximations used in problem-solving and are often considered 'weak' because they may not always guarantee the optimal solution.",
+                    "finished": false
+                },
+                {
+                    "id": 9,
+                    "question": "A good heuristic shouldn’t take long to calculate",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "A good heuristic should be computationally efficient and provide a quick estimate of the distance or cost to the goal.",
+                    "finished": false
+                },
+                {
+                    "id": 10,
+                    "question": "Pick the most correct option:",
+                    "answers": [
+                        {
+                            "answer": "Best First Search is an admissible algorithm",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Hill-Climbing is susceptible to getting stuck in a local optima",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Hill-Climbing and Greedy-Hill Climbing are the same",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Best First Searches often get stuck in loops",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Hill-Climbing algorithms can get trapped in local optima because they make moves that lead to improved states but may not explore other paths that could lead to a global optimum.",
+                    "finished": false
+                },
+                {
+                    "id": 11,
+                    "question": "What is the main difference between an uninformed and informed search?",
+                    "answers": [
+                        {
+                            "answer": "Uninformed searches are complete",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Informed searches explore the whole search space",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Informed is not efficient when the search space is large",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Uninformed only explore promising paths first",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Uninformed searches, such as Breadth First Search, are complete in the sense that they will always find a solution if one exists within the search space.",
+                    "finished": false
+                },
+                {
+                    "id": 12,
+                    "question": "In Branch and Bound techniques only a fraction of the search space is searched.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Branch and Bound techniques selectively explore portions of the search space and do not necessarily search the entire space.",
+                    "finished": false
+                },
+                {
+                    "id": 13,
+                    "question": "Pick the most correct option:",
+                    "answers": [
+                        {
+                            "answer": "Best First Search uses a stack to maintain nodes",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Best First Search only considers local states",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Best First Search always finds the shortest solution path",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Best First Search selects the lowest expansion node at first for evaluation",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Best First Search prioritizes nodes based on a heuristic evaluation function, selecting the one with the lowest estimated cost for expansion.",
+                    "finished": false
+                },
+                {
+                    "id": 14,
+                    "question": "Greedy Hill-Climbing is less likely to be susceptible to a local optima than Hill-Climbing",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Greedy Hill-Climbing is less likely to get stuck in local optima because it makes more opportunistic choices based on the heuristic, although it's still not guaranteed to find the global optimum.",
                     "finished": false
                 }
             ]
@@ -51,7 +651,159 @@
             "questions": [
                 {
                     "id": 0,
-                    "question": "",
+                    "question": "Local Searches can get stuck in a local maxima.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Local search algorithms, by nature, focus on improving the current solution by exploring neighboring solutions. They can indeed get stuck in a local maximum if they do not explore beyond the immediate neighborhood.",
+                    "finished": false
+                },
+                {
+                    "id": 1,
+                    "question": "A plateau is an area in the search space where all neighboring states have:",
+                    "answers": [
+                        {
+                            "answer": "The same values as the current state",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Vastly different values to the current state",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Similar values to the current state",
+                            "correct": false
+                        },
+                        {
+                            "answer": "All have the same heuristic",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "In a plateau, all neighboring states have similar or identical objective function values, making it challenging for the search algorithm to find a direction of improvement.",
+                    "finished": false
+                },
+                {
+                    "id": 2,
+                    "question": "The goal in combinatorial optimization problems is to get the optimal solution that minimizes an objective function.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Combinatorial optimization problems aim to find the best solution that minimizes or maximizes a specific objective function, which can represent various criteria.",
+                    "finished": false
+                },
+                {
+                    "id": 3,
+                    "question": "A perturbative search method is one:",
+                    "answers": [
+                        {
+                            "answer": "That involves generating candidate solutions that iteratively extend partial candidate solutions",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Where there’s a focus on creating partial solutions from complete solutions",
+                            "correct": false
+                        },
+                        {
+                            "answer": "That never works in the search space",
+                            "correct": false
+                        },
+                        {
+                            "answer": "That modifies components to create new candidate solutions",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Perturbative search methods involve making small or substantial modifications to existing candidate solutions to explore new possibilities in the search space.",
+                    "finished": false
+                },
+                {
+                    "id": 4,
+                    "question": "Pick the most correct option:",
+                    "answers": [
+                        {
+                            "answer": "In a local search, a point can have multiple neighbors that are only visited once during a search",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Local Searches always pick the starting position in the search space using some knowledge",
+                            "correct": false
+                        },
+                        {
+                            "answer": "In a Local Search a point never has more than 2 neighbors",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Local Searches are not complete",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Local search algorithms do not guarantee finding the global optimum and can get stuck in local optima, making them incomplete.",
+                    "finished": false
+                },
+                {
+                    "id": 5,
+                    "question": "Which one of the following is a characteristic of a metaheuristic?",
+                    "answers": [
+                        {
+                            "answer": "Are only general",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Usually are stochastic",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Don’t have any mechanism to escape a local minima",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Do not have any domain knowledge",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Metaheuristics often incorporate randomness or probabilistic components in their algorithms to explore diverse parts of the search space.",
+                    "finished": false
+                },
+                {
+                    "id": 6,
+                    "question": "Metaheuristics are iterative algorithms that use:",
+                    "answers": [
+                        {
+                            "answer": "Exploration only",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Exploitation only",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Exploration and exploitation",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Rarely use exploration",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Metaheuristics balance exploration (searching for new solutions) and exploitation (refining current solutions) to find good-quality solutions efficiently.",
+                    "finished": false
+                },
+                {
+                    "id": 7,
+                    "question": "Metaheuristics are guaranteed to find the optimal solution every time",
                     "answers": [
                         {
                             "answer": "True",
@@ -59,10 +811,154 @@
                         },
                         {
                             "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Metaheuristics aim to find good solutions but do not guarantee optimality, especially for complex problems with large search spaces.",
+                    "finished": false
+                },
+                {
+                    "id": 8,
+                    "question": "Intensification is a search strategy used by which algorithm?",
+                    "answers": [
+                        {
+                            "answer": "Hill-Climbing",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Genetic Algorithm",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Neural Network",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Ant Colony Optimization",
                             "correct": false
                         }
                     ],
-                    "explanation" : "",
+                    "explanation" : "Intensification strategies in optimization involve focusing on improving the current solution, which is a key characteristic of Hill-Climbing.",
+                    "finished": false
+                },
+                {
+                    "id": 9,
+                    "question": "In Iterated Local Search exploration is done through:",
+                    "answers": [
+                        {
+                            "answer": "The local search",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Generating an initial solution",
+                            "correct": false
+                        },
+                        {
+                            "answer": "The acceptance criteria",
+                            "correct": false
+                        },
+                        {
+                            "answer": "The perturbation",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Iterated Local Search combines local search with perturbation to explore different areas of the search space by introducing controlled randomness.",
+                    "finished": false
+                },
+                {
+                    "id": 10,
+                    "question": "Perturbation helps a search to escape a local minima.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Perturbation introduces randomness or significant changes to the current solution, helping the search escape local minima and explore new regions of the search space.",
+                    "finished": false
+                },
+                {
+                    "id": 11,
+                    "question": "In Tabu Search exploitation is done through:",
+                    "answers": [
+                        {
+                            "answer": "Generating a neighborhood of solutions from the current solution",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Keeping a tabu list of recently visited solutions",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Generating the initial candidate solution",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Removing an element from the tabu list",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Tabu Search exploits the search space by maintaining a tabu list that restricts revisiting previously explored solutions.",
+                    "finished": false
+                },
+                {
+                    "id": 12,
+                    "question": "Tabu Search is similar to which other search algorithm?",
+                    "answers": [
+                        {
+                            "answer": "Local Search",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Breath First Search",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Depth First Search",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Hill Climbing",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Tabu Search and Hill Climbing both focus on improving the current solution, but Tabu Search employs additional mechanisms like the tabu list to escape local optima.",
+                    "finished": false
+                },
+                {
+                    "id": 13,
+                    "question": "A tabu list in the Tabu Search will grow infinitely if no bounds are put on it.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Without limitations, the tabu list in Tabu Search can grow indefinitely, potentially impacting the algorithm's efficiency and memory usage.",
+                    "finished": false
+                },
+                {
+                    "id": 14,
+                    "question": "If an algorithm employs a lot of exploitation it will never get stuck in a local optima",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Exploitation, which refines the current solution, reduces the likelihood of getting stuck in a local optima. However, it does not guarantee avoidance in all cases.",
                     "finished": false
                 }
             ]
@@ -73,7 +969,7 @@
             "questions": [
                 {
                     "id": 0,
-                    "question": "",
+                    "question": "A single-point search refers to finding multiple solutions in the problem space.",
                     "answers": [
                         {
                             "answer": "True",
@@ -81,10 +977,298 @@
                         },
                         {
                             "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "A single-point search typically focuses on finding a single solution, not multiple solutions.",
+                    "finished": false
+                },
+                {
+                    "id": 1,
+                    "question": "All problems need the path length to the final solution",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "The path length or the optimization objective's value is relevant to most problems as it represents the quality of the solution.",
+                    "finished": false
+                },
+                {
+                    "id": 2,
+                    "question": "Which one of the following is a single-point search?",
+                    "answers": [
+                        {
+                            "answer": "Variable Neighborhood Search",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Ant Colony Optimization",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Genetic Program",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Particle Swarm Optimization",
                             "correct": false
                         }
                     ],
-                    "explanation" : "",
+                    "explanation" : "Variable Neighborhood Search is a single-point search technique that iteratively explores different neighborhoods of the current solution.",
+                    "finished": false
+                },
+                {
+                    "id": 3,
+                    "question": "Which of the following is a disadvantage of Simulated Annealing?",
+                    "answers": [
+                        {
+                            "answer": "It’s stochastic",
+                            "correct": false
+                        },
+                        {
+                            "answer": "It’s a local search",
+                            "correct": false
+                        },
+                        {
+                            "answer": "It accepts worse solutions",
+                            "correct": false
+                        },
+                        {
+                            "answer": "It can escape the local optima",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Simulated Annealing can accept worse solutions with a certain probability, which can slow down the convergence towards the optimal solution.",
+                    "finished": false
+                },
+                {
+                    "id": 4,
+                    "question": "How is exploration done in Simulated Annealing?",
+                    "answers": [
+                        {
+                            "answer": "By accepting a worse solution",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Generating solutions similar to the current solution",
+                            "correct": false
+                        },
+                        {
+                            "answer": "By decreasing the cooling rate",
+                            "correct": false
+                        },
+                        {
+                            "answer": "By starting off with a low cooling rate",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Simulated Annealing explores the search space by occasionally accepting worse solutions to escape local optima.",
+                    "finished": false
+                },
+                {
+                    "id": 5,
+                    "question": "Genetic Algorithms have probability rates.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Genetic Algorithms use various probability rates, such as crossover and mutation probabilities, to guide the evolutionary process.",
+                    "finished": false
+                },
+                {
+                    "id": 6,
+                    "question": "How does a Genetic Algorithm perform a global search?",
+                    "answers": [
+                        {
+                            "answer": "By generating the initial population",
+                            "correct": false
+                        },
+                        {
+                            "answer": "By generating the next generation",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Selecting parents for the next generation",
+                            "correct": false
+                        },
+                        {
+                            "answer": "By applying mutations on parents",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Genetic Algorithms introduce diversity and explore the search space by applying mutations to individuals from the parent population.",
+                    "finished": false
+                },
+                {
+                    "id": 7,
+                    "question": "How can the initial population be generated in a Genetic Algorithm?",
+                    "answers": [
+                        {
+                            "answer": "Sensible Initialization",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Zero Initialization",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Orthogonal Initialization",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Self-normalizing Initialization",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Sensible Initialization is a common method for generating the initial population in a Genetic Algorithm.",
+                    "finished": false
+                },
+                {
+                    "id": 8,
+                    "question": "The selection process in Genetic Algorithm is more biased towards the less fitter individuals",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Selection in Genetic Algorithms often includes mechanisms like roulette wheel or tournament selection, which give a chance to less fit individuals.",
+                    "finished": false
+                },
+                {
+                    "id": 9,
+                    "question": "A large population size leads to quicker convergence.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "A larger population size can increase exploration and diversity, potentially leading to faster convergence to a solution.",
+                    "finished": false
+                },
+                {
+                    "id": 10,
+                    "question": "Which one of the following is an example of selection?",
+                    "answers": [
+                        {
+                            "answer": "Conditional Selection",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Branching Selection",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Convergent Selection",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Tournament Selection",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "Tournament Selection is a common method used in Genetic Algorithms to select individuals for reproduction.",
+                    "finished": false
+                },
+                {
+                    "id": 11,
+                    "question": "Which of the following is a crossover?",
+                    "answers": [
+                        {
+                            "answer": "Blend crossover",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Three-Point crossover",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Single crossover",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Hard crossover",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Blend crossover is a crossover operator used in Genetic Algorithms to create new offspring from parent solutions.",
+                    "finished": false
+                },
+                {
+                    "id": 12,
+                    "question": "A low mutation rate makes the search random.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": false
+                        },
+                        {
+                            "answer": "False",
+                            "correct": true
+                        }
+                    ],
+                    "explanation" : "A low mutation rate means that only a small percentage of the genetic information changes during each generation, which can introduce randomness.",
+                    "finished": false
+                },
+                {
+                    "id": 13,
+                    "question": "Which of the following is a mutation?",
+                    "answers": [
+                        {
+                            "answer": "Arithmetic mutation",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Whole mutation",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Boundary mutation",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Flip Bit mutation",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "Flip Bit mutation involves flipping the value of a gene or bit in an individual's representation.",
+                    "finished": false
+                },
+                {
+                    "id": 14,
+                    "question": "A high number of generations usually leads to overfitting.",
+                    "answers": [
+                        {
+                            "answer": "True",
+                            "correct": true
+                        },
+                        {
+                            "answer": "False",
+                            "correct": false
+                        }
+                    ],
+                    "explanation" : "In Genetic Algorithms, too many generations can cause the algorithm to overfit the training data, emphasizing exploration at the expense of exploitation.",
                     "finished": false
                 }
             ]
