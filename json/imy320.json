@@ -28,7 +28,7 @@
                         }
                     ],
                     "explanation": "The three rules of epidemics are 'The Law of the Few,' 'the Stickiness Factor,' and 'the Power of Context' because these factors collectively explain how trends and behaviors spread through a population.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 1,
@@ -44,7 +44,7 @@
                         }
                     ],
                     "explanation": "A fad is typically characterized by a rapid rise in popularity and a relatively quick decline, not a behavior that takes a long time to fade away.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 2,
@@ -68,7 +68,7 @@
                         }
                     ],
                     "explanation": "A change can only be considered a trend when a statistical test confirms it because trends are based on data and require statistical validation to ensure their significance.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 3,
@@ -188,7 +188,7 @@
                         }
                     ],
                     "explanation": "An aggregator is a website that accumulates different types of information from various sources online.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 9,
@@ -228,7 +228,7 @@
                         }
                     ],
                     "explanation": "In Fitts’ Law, a touch target should be placed in areas that are easy to reach by the user to optimize user interaction.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 11,
@@ -268,7 +268,7 @@
                         }
                     ],
                     "explanation": "If every website followed the same convention, it would allow users to use other sites easier and quicker because they would have a consistent and familiar user experience.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 13,
@@ -284,7 +284,7 @@
                         }
                     ],
                     "explanation": "Fitts' Law explains that larger objects take less time to click on, making it quicker to interact with bigger targets.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 14,
@@ -308,7 +308,7 @@
                         }
                     ],
                     "explanation": "An average adult human's finger pad is typically in the range of 10-14mm.",
-                    "finished": false
+                    "finished": true
                 }
             ]
         },
@@ -998,7 +998,7 @@
                         }
                     ],
                     "explanation": "Affordances in design are relative to the individual and their ability to interact because they depend on the user's perception and understanding of how elements can be used.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 2,
@@ -1014,7 +1014,7 @@
                         }
                     ],
                     "explanation": "Flat design is indeed a UI design approach that focuses on using 2D elements to create form and function.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 3,
@@ -1062,7 +1062,7 @@
                         }
                     ],
                     "explanation": "Metaphors are part of the Human Interface design principle because they provide familiar symbols and representations for users to understand and interact with digital interfaces.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 5,
@@ -1102,7 +1102,7 @@
                         }
                     ],
                     "explanation": "A good mobile site is made by prioritizing UX Research, ensuring that the design is based on user needs and behaviors.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 7,
@@ -1166,7 +1166,7 @@
                         }
                     ],
                     "explanation": "VR (Virtual Reality) is an environment you can currently access through specialized equipment, such as VR headsets.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 10,

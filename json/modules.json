@@ -4,14 +4,17 @@
             "index": "0",
             "name": "IMY 320",
             "icon": "Website",
-            "active": false,
-            "timeSpent": 202,
+            "active": true,
+            "timeSpent": 309,
             "chapters": [
                 {
                     "index": 0,
                     "chapter": "Chapter 1 - Trends",
                     "description": "This chapter delves into distinguishing between trends and fads, analyzing the statics of trends, understanding the diffusion of innovation, illustrating the Rogers Bell Curve's role in innovation adoption, identifying tipping points, and discussing the agents of change that influence societal shifts.",
-                    "scores": []
+                    "scores": [
+                        66,
+                        100
+                    ]
                 },
                 {
                     "index": 1,
@@ -29,7 +32,9 @@
                     "index": 3,
                     "chapter": "Chapter 4 - Mobile Trends",
                     "description": "This chapter explores design principles, UI concepts, and emerging technology trends. It covers Dieter Rams' principles, AR and VR applications, and context-aware learning.",
-                    "scores": []
+                    "scores": [
+                        83
+                    ]
                 }
             ]
         },
@@ -37,7 +42,7 @@
             "index": "1",
             "name": "IMY 310",
             "icon": "Figma",
-            "active": true,
+            "active": false,
             "timeSpent": 154,
             "chapters": [
                 {
