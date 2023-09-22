@@ -1,4 +1,5 @@
 {
+    "index": 0,
     "name": "IMY 320",
     "chapters": [
         {
@@ -195,11 +196,11 @@
                     "answers": [
                         {
                             "answer": "True",
-                            "correct": false
+                            "correct": true
                         },
                         {
                             "answer": "False",
-                            "correct": true
+                            "correct": false
                         }
                     ],
                     "explanation": "YouTube is an example of a web aggregator because it gathers and hosts a wide range of video content from various sources.",
@@ -231,7 +232,7 @@
                 },
                 {
                     "id": 11,
-                    "question": "A mental model is how we think a system works",
+                    "question": "A mental model is how we think a system works.",
                     "answers": [
                         {
                             "answer": "True",
@@ -271,7 +272,7 @@
                 },
                 {
                     "id": 13,
-                    "question": "Pitt's Law explains how a big object takes more time to click on.",
+                    "question": "Fitts' Law explains how a big object takes more time to click on.",
                     "answers": [
                         {
                             "answer": "True",
@@ -282,7 +283,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation": " Fitts' Law explains that larger objects take less time to click on, making it quicker to interact with bigger targets.",
+                    "explanation": "Fitts' Law explains that larger objects take less time to click on, making it quicker to interact with bigger targets.",
                     "finished": false
                 },
                 {
@@ -405,7 +406,7 @@
                 },
                 {
                     "id": 4,
-                    "question": "A Task Model shows what users do, the behaviors they adopt, and doesn't show the requirements at each stage",
+                    "question": "A Task Model shows what users do, the behaviors they adopt, and doesn't show the requirements at each stage.",
                     "answers": [
                         {
                             "answer": "True",
@@ -460,7 +461,7 @@
                             "correct": false
                         },
                         {
-                            "answer": "Tries to believe something nonsensical",
+                            "answer": "Tries to believe something that makes sense",
                             "correct": false
                         }
                     ],
@@ -533,7 +534,7 @@
                 },
                 {
                     "id": 10,
-                    "question": "Flattery makes people less responsive to persuasion",
+                    "question": "Flattery makes people less responsive to persuasion.",
                     "answers": [
                         {
                             "answer": "True",
@@ -568,7 +569,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation": "To create desirability for a product, you use secrecy, scarcity, identity, aesthetics, and functionality",
+                    "explanation": "To create desirability for a product, you use secrecy, scarcity, identity, aesthetics, and functionality.",
                     "finished": false
                 },
                 {
@@ -597,7 +598,7 @@
                 },
                 {
                     "id": 13,
-                    "question": "Cognitive load is the amount of mental resources needed to understand something",
+                    "question": "Cognitive load is the amount of mental resources needed to understand something.",
                     "answers": [
                         {
                             "answer": "True",
@@ -726,7 +727,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation": "Continuous Integration and Deployment consists of Continuous Integration, Continuous Delivery, and Continuous Deployment",
+                    "explanation": "Continuous Integration and Deployment consists of Continuous Integration, Continuous Delivery, and Continuous Deployment.",
                     "finished": false
                 },
                 {
@@ -747,7 +748,7 @@
                 },
                 {
                     "id": 5,
-                    "question": "A design’s concept should solely be determined by the users",
+                    "question": "A design’s concept should solely be determined by the users.",
                     "answers": [
                         {
                             "answer": "True",
@@ -806,7 +807,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation": "Composition is indeed the placement of visual elements on a page",
+                    "explanation": "Composition is indeed the placement of visual elements on a page.",
                     "finished": false
                 },
                 {
@@ -851,7 +852,7 @@
                 },
                 {
                     "id": 10,
-                    "question": "Postel’s Law follows the concept of:",
+                    "question": "Postel's Law follows the concept of:",
                     "answers": [
                         {
                             "answer": "Be liberal in what you do, be conservative in what you accept from others",
@@ -915,7 +916,7 @@
                 },
                 {
                     "id": 13,
-                    "question": "Cognitive bias is a rationality in judgement that influences our decision-making abilities",
+                    "question": "Cognitive bias is a rationality in judgement that influences our decision-making abilities.",
                     "answers": [
                         {
                             "answer": "True",
@@ -931,7 +932,7 @@
                 },
                 {
                     "id": 14,
-                    "question": "",
+                    "question": "People remember their positive experiences more clearly than their negative ones.",
                     "answers": [
                         {
                             "answer": "True",
@@ -972,7 +973,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation": " - TRUE. One of Dieter Rams' 10 Principles of good design is 'Innovative' because good design often involves creative and forward-thinking solutions..",
+                    "explanation": " - TRUE. One of Dieter Rams' 10 Principles of good design is 'Innovative' because good design often involves creative and forward-thinking solutions.",
                     "finished": false
                 },
                 {
@@ -1001,7 +1002,7 @@
                 },
                 {
                     "id": 2,
-                    "question": "Flat design is a UI design that focuses on using 2D elements to create form/function",
+                    "question": "Flat design is a UI design that focuses on using 2D elements to create form/function.",
                     "answers": [
                         {
                             "answer": "True",
@@ -1041,7 +1042,7 @@
                 },
                 {
                     "id": 4,
-                    "question": "Which one of the following is part of the Human Interface design principle",
+                    "question": "Which one of the following is part of the Human Interface design principle.",
                     "answers": [
                         {
                             "answer": "Metaphors",
@@ -1065,7 +1066,7 @@
                 },
                 {
                     "id": 5,
-                    "question": "IOS uses Material Design and Android uses Human Interface",
+                    "question": "IOS uses Material Design and Android uses Human Interface.",
                     "answers": [
                         {
                             "answer": "True",
@@ -1129,7 +1130,7 @@
                 },
                 {
                     "id": 8,
-                    "question": "Mobile AR is disadvantaged by the widely distributed base of hardware like smartphones and tablets",
+                    "question": "Mobile AR is disadvantaged by the widely distributed base of hardware like smartphones and tablets.",
                     "answers": [
                         {
                             "answer": "True",
@@ -1193,7 +1194,7 @@
                 },
                 {
                     "id": 11,
-                    "question": "Context-aware applications use information about a person to improve their user experience",
+                    "question": "Context-aware applications use information about a person to improve their user experience.",
                     "answers": [
                         {
                             "answer": "True",
@@ -1209,7 +1210,7 @@
                 },
                 {
                     "id": 12,
-                    "question": "You make consistent through:",
+                    "question": "You create consistency in design through:",
                     "answers": [
                         {
                             "answer": "Visual, functional, and external consistencies",
@@ -1257,7 +1258,7 @@
                 },
                 {
                     "id": 14,
-                    "question": "Motion focuses on attention and maintains continuity through feedback and transitions",
+                    "question": "Motion focuses on attention and maintains continuity through feedback and transitions.",
                     "answers": [
                         {
                             "answer": "True",

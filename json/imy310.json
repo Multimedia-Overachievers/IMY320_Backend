@@ -1,9 +1,10 @@
 {
+    "index": 1,
     "name": "IMY 310",
     "chapters": [
         {
             "id": 0,
-            "name": "What is Interaction Design?",
+            "name": "Chapter 1 - Interaction Design (ID)",
             "questions": [
                 {
                     "id": 0,
@@ -329,7 +330,7 @@
         },
         {
             "id": 1,
-            "name": "The Process of Interaction Design",
+            "name": "Chapter 2 - The Process of ID",
             "questions": [
                 {
                     "id": 0,
@@ -401,7 +402,7 @@
                         }
                     ],
                     "explanation": "Involving users in the design process helps make them stakeholders in the product, which leads to a sense of ownership and a better understanding of their needs and expectations.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 3,
@@ -537,7 +538,7 @@
                         }
                     ],
                     "explanation": "Targeted products are designed to meet the specific needs and roles of particular user groups or individuals.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 10,
@@ -647,7 +648,7 @@
         },
         {
             "id": 2,
-            "name": "Conceptualizing Interaction",
+            "name": "Chapter 3 - Conceptualization",
             "questions": [
                 {
                     "id": 0,
@@ -965,7 +966,7 @@
         },
         {
             "id": 3,
-            "name": "Cognitive Aspects",
+            "name": "Chapter 4 - Cognitive Aspects",
             "questions": [
                 {
                     "id": 0,

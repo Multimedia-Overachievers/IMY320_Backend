@@ -22,7 +22,38 @@ app.get('/modules', function (req, res) {
     });
 });
 
-const modules = ["cos314", "cos333", "imy320", "imy310"];
+const modules = ["imy320", "imy310", "cos314", "cos333"];
+
+app.post('/set-active-module', function (req, res) {
+    fs.readFile( "json/modules.json", 'utf8', function (err, data) {
+        var data = JSON.parse(data);
+        data.data.forEach(module => {
+            module.active = false;
+        });
+        data.data[req.body.moduleIndex].active = true;
+        
+        fs.writeFile("json/modules.json", JSON.stringify(data, null, 4), function(err) {
+            if(err) {
+                return console.log(err);
+            }
+        });
+    });
+
+    res.json({});
+});
+
+app.get('/get-active-module', function (req, res) {
+    fs.readFile( "json/modules.json", 'utf8', function (err, data) {
+        var activeModule = null;
+        var data = JSON.parse(data);
+        data.data.forEach((module, index) => {
+            if(module.active) {
+                activeModule = index;
+            }
+        });
+        res.json(activeModule);
+    });
+});
 
 app.get('/get-all-questions', async function (req, res) {
     var questions = {
@@ -38,6 +69,11 @@ app.get('/get-all-questions', async function (req, res) {
             });
         });
     })).then(() => {
+
+        //sort modules by index
+        questions.module.sort((a, b) => {
+            return a.index - b.index;
+        });
         res.json(questions);
     });
 });
@@ -45,8 +81,16 @@ app.get('/get-all-questions', async function (req, res) {
 app.post('/questions', function (req, res) {
     //response contains module code
     var moduleCode = req.body.moduleCode;
+
     fs.readFile("json/" + moduleCode + ".json", 'utf8', function (err, data) {
-        res.end(data);
+        if (err) {
+            res.json(null);
+            return;
+        }
+
+
+        var data = JSON.parse(data);
+        res.json(data);
     });
 });
 
@@ -99,7 +143,6 @@ app.get('/set-all-unfinished', async function (req, res) {
 });
 
 app.post('/update-chapter-question', function (req, res) {
-    //do the same but with new module per json file
     var moduleCode = GetModuleCode(req.body.moduleIndex);
     
     fs.readFile( "json/" + moduleCode + ".json", 'utf8', function (err, data) {
@@ -116,6 +159,8 @@ app.post('/update-chapter-question', function (req, res) {
 
         console.log("Question Set to finished");
     });
+
+    res.json({});
 });
 
 
@@ -127,13 +172,12 @@ app.post('/add-quiz-score', function (req, res) {
 
         chapter.scores.push(parseInt(req.body.score));
         module.timeSpent += parseInt(req.body.quizTime);
-        console.log("time spent", module.timeSpent);
         
-        // fs.writeFile("json/modules.json", JSON.stringify(data, null, 4), function(err) {
-        //     if(err) {
-        //         return console.log(err);
-        //     }
-        // });
+        fs.writeFile("json/modules.json", JSON.stringify(data, null, 4), function(err) {
+            if(err) {
+                return console.log(err);
+            }
+        });
 
         console.log("Score added");
     });
@@ -186,8 +230,8 @@ function GetModuleCode(moduleIndex) {
         case 1:
             return 'imy310';
         case 2:
-            return 'cos333';
-        case 3:
             return 'cos314';
+        case 3:
+            return 'cos333';
     }
 }

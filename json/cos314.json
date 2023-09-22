@@ -1,9 +1,10 @@
 {
+    "index": 2,
     "name": "COS 314",
     "chapters": [
         {
             "id": 0,
-            "name": "Overview of Reasoning Techniques",
+            "name": "Chapter 1 - Overview of Reasoning Techniques",
             "questions": [
                 {
                     "id": 0,
@@ -175,7 +176,7 @@
                 },
                 {
                     "id": 8,
-                    "question": "",
+                    "question": "Deterministic is:",
                     "answers": [
                         {
                             "answer": "Where the outcome of an action cannot be determined by the current state",
@@ -329,7 +330,7 @@
         },
         {
             "id": 1,
-            "name": "State Space Representation and Search",
+            "name": "Chapter 2 - State Space Search",
             "questions": [
                 {
                     "id": 0,
@@ -389,7 +390,7 @@
                         },
                         {
                             "answer": "Graph",
-                            "correct": false
+                            "correct": true
                         }
                     ],
                     "explanation": "The traveling salesman problem involves finding the shortest path in a network of cities and can be accurately represented as a graph.",
@@ -457,7 +458,7 @@
                         }
                     ],
                     "explanation": "Depth First Search (DFS) typically uses a stack (or recursion) to maintain nodes as it explores deeper into the search tree.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 6,
@@ -481,7 +482,7 @@
                         }
                     ],
                     "explanation": "Depth First Search with Iterative Deepening is a complete search algorithm that guarantees finding the shortest path to the goal.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 7,
@@ -497,7 +498,7 @@
                         }
                     ],
                     "explanation": "Breadth First Search (BFS) tends to have a good branching factor because it explores all nodes at the current level before moving to the next level.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 8,
@@ -561,7 +562,7 @@
                         }
                     ],
                     "explanation": "Hill-Climbing algorithms can get trapped in local optima because they make moves that lead to improved states but may not explore other paths that could lead to a global optimum.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 11,
@@ -647,7 +648,7 @@
         },
         {
             "id": 2,
-            "name": "Local Searches",
+            "name": "Chapter 3 - Local Optima",
             "questions": [
                 {
                     "id": 0,
@@ -879,7 +880,7 @@
                         }
                     ],
                     "explanation": "Perturbation introduces randomness or significant changes to the current solution, helping the search escape local minima and explore new regions of the search space.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 11,
@@ -965,7 +966,7 @@
         },
         {
             "id": 3,
-            "name": "Optimization Algorithms",
+            "name": "Chapter 4 - Metaheuristics",
             "questions": [
                 {
                     "id": 0,
