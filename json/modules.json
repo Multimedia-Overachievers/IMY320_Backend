@@ -4,8 +4,8 @@
             "index": "0",
             "name": "IMY 320",
             "icon": "Website",
-            "active": true,
-            "timeSpent": 342,
+            "active": false,
+            "timeSpent": 380,
             "chapters": [
                 {
                     "index": 0,
@@ -28,7 +28,9 @@
                     "index": 2,
                     "chapter": "Chapter 3 - Web Trends",
                     "description": "This chapter navigates the ever-evolving landscape of web trends, exploring their impact on user engagement and design aesthetics. We'll examine emerging web technologies such as WASM, Continuous Integration and Deployment (CICD), No Code/Low Code solutions and micro frontends, and discuss how they shape user experiences on the internet.",
-                    "scores": []
+                    "scores": [
+                        66
+                    ]
                 },
                 {
                     "index": 3,
@@ -80,7 +82,7 @@
             "name": "COS 314",
             "icon": "Brain",
             "active": false,
-            "timeSpent": 353,
+            "timeSpent": 487,
             "chapters": [
                 {
                     "index": 0,
@@ -98,7 +100,8 @@
                         66,
                         50,
                         16,
-                        66
+                        66,
+                        83
                     ]
                 },
                 {
@@ -106,14 +109,17 @@
                     "chapter": "Chapter 3 - Local Optima",
                     "description": "This chapter covers optimization algorithms, including local searches and metaheuristics. Topics include local maxima, plateaus, combinatorial optimization objectives, and perturbative search.",
                     "scores": [
-                        16
+                        16,
+                        100
                     ]
                 },
                 {
                     "index": 3,
                     "chapter": "Chapter 4 - Metaheuristics",
                     "description": "This chapter delves into aspects about optimization and search algorithms. It covers topics like single-point search, path length, Simulated Annealing, Genetic Algorithms, their characteristics, and parameters affecting their performance.",
-                    "scores": []
+                    "scores": [
+                        83
+                    ]
                 }
             ]
         },
@@ -121,15 +127,22 @@
             "index": "3",
             "name": "COS 333",
             "icon": "Terminal",
-            "active": false,
-            "timeSpent": 100,
+            "active": true,
+            "timeSpent": 299,
             "chapters": [
                 {
                     "index": 0,
                     "chapter": "Chapter 1 - Preliminaries",
                     "description": "This chapter delves into the building blocks of programming languages. It covers the importance of studying languages, and the characteristics of certain programming languages.",
                     "scores": [
-                        83
+                        83,
+                        100,
+                        100,
+                        100,
+                        100,
+                        100,
+                        100,
+                        100
                     ]
                 },
                 {
@@ -146,7 +159,8 @@
                     "chapter": "Chapter 3 - Functional Programming ",
                     "description": "This chapter focuses on functional programming languages. It covers topics such as the von Neumann architecture, referential transparency, and the characteristics of functional programming languages.",
                     "scores": [
-                        16
+                        16,
+                        83
                     ]
                 },
                 {

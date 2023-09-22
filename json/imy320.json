@@ -704,7 +704,7 @@
                         }
                     ],
                     "explanation": "Micro Frontends are also referred to as 'Frontend Monolith' because they are a way to break down a monolithic frontend into smaller, independently deployable parts.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 3,
@@ -784,7 +784,7 @@
                         }
                     ],
                     "explanation": "Branding is how a company tries to engage with its audience and how it makes them feel.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 7,
@@ -824,7 +824,7 @@
                         }
                     ],
                     "explanation": "Hierarchy in design can be created through scaling, placement, and color.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 9,
@@ -928,7 +928,7 @@
                         }
                     ],
                     "explanation": "Cognitive bias refers to the irrationality in judgment that influences our decision-making abilities.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 14,

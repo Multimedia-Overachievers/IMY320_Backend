@@ -44,7 +44,7 @@
                         }
                     ],
                     "explanation": "In a programming language, if a certain data structure or feature is not natively supported, you can still create simulations or workarounds to achieve the desired functionality.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 2,
@@ -60,7 +60,7 @@
                         }
                     ],
                     "explanation": "It's preferable to select a programming language that natively supports a major feature rather than using another language where you have to simulate it, as it usually results in more efficient and maintainable code.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 3,
@@ -84,7 +84,7 @@
                         }
                     ],
                     "explanation": "C++ provides extensive capabilities for writing code, making it a powerful language for developing software.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 4,
@@ -100,7 +100,7 @@
                         }
                     ],
                     "explanation": "This statement is false because ALGOL 68 is considered more orthogonal than PL/1 because more constructs can be combined in ALGOL 68 with minimal exceptions.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 5,
@@ -148,7 +148,7 @@
                         }
                     ],
                     "explanation": "Prolog gained prominence as a programming language primarily used in the field of Artificial Intelligence due to its logical reasoning capabilities.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 7,
@@ -212,7 +212,7 @@
                         }
                     ],
                     "explanation": "Perl is primarily an imperative and scripting language, not a functional programming language.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 10,
@@ -236,7 +236,7 @@
                         }
                     ],
                     "explanation": "In compilation, programs are translated into machine code before execution, whereas pure interpretation executes code directly without prior translation.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 11,
@@ -260,7 +260,7 @@
                         }
                     ],
                     "explanation": "Parse analysis is not a part of the compilation process; it's typically part of syntax analysis.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 12,
@@ -276,7 +276,7 @@
                         }
                     ],
                     "explanation": "Compilation often results in faster execution because the code is translated into a more optimized form, while pure interpretation executes code line-by-line.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 13,
@@ -300,7 +300,7 @@
                         }
                     ],
                     "explanation": "Scripting languages often use pure interpretation because they need to work across different browsers and operating systems without the need for compilation.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 14,
@@ -644,7 +644,7 @@
                 },
                 {
                     "id": 1,
-                    "question": "",
+                    "question": "Functional programming languages are based on the von Neumann architecture.",
                     "answers": [
                         {
                             "answer": "True",
@@ -680,7 +680,7 @@
                         }
                     ],
                     "explanation": "Referential transparency is compromised when mutable state is present because the same function call may yield different results depending on the state of mutable variables.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 3,
@@ -768,7 +768,7 @@
                         }
                     ],
                     "explanation": "In Scheme, POSITIVE? is not a predefined predicate function. Predefined predicates typically include functions like 'EVEN?', 'ODD?', and ZERO?.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 7,
@@ -784,7 +784,7 @@
                         }
                     ],
                     "explanation": "In functional programming, repetition can be achieved through recursion and higher-order functions, not exclusively through control loop structures.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 8,
@@ -872,7 +872,7 @@
                         }
                     ],
                     "explanation": "Recursive functions can be slower and consume more memory than equivalent iterative constructs due to the overhead of function calls.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 12,
@@ -936,7 +936,7 @@
                         }
                     ],
                     "explanation": "LISP (List Processing) was one of the earliest programming languages used for Artificial Intelligence research and development.",
-                    "finished": false
+                    "finished": true
                 }
             ]
         },

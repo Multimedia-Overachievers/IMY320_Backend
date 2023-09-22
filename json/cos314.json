@@ -752,7 +752,7 @@
                         }
                     ],
                     "explanation": "Local search algorithms do not guarantee finding the global optimum and can get stuck in local optima, making them incomplete.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 5,
@@ -776,7 +776,7 @@
                         }
                     ],
                     "explanation": "Metaheuristics often incorporate randomness or probabilistic components in their algorithms to explore diverse parts of the search space.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 6,
@@ -800,7 +800,7 @@
                         }
                     ],
                     "explanation": "Metaheuristics balance exploration (searching for new solutions) and exploitation (refining current solutions) to find good-quality solutions efficiently.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 7,
@@ -816,7 +816,7 @@
                         }
                     ],
                     "explanation": "Metaheuristics aim to find good solutions but do not guarantee optimality, especially for complex problems with large search spaces.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 8,
@@ -864,7 +864,7 @@
                         }
                     ],
                     "explanation": "Iterated Local Search combines local search with perturbation to explore different areas of the search space by introducing controlled randomness.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 10,
@@ -944,7 +944,7 @@
                         }
                     ],
                     "explanation": "Without limitations, the tabu list in Tabu Search can grow indefinitely, potentially impacting the algorithm's efficiency and memory usage.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 14,
@@ -1022,7 +1022,7 @@
                         }
                     ],
                     "explanation": "Variable Neighborhood Search is a single-point search technique that iteratively explores different neighborhoods of the current solution.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 3,
@@ -1070,7 +1070,7 @@
                         }
                     ],
                     "explanation": "Simulated Annealing explores the search space by occasionally accepting worse solutions to escape local optima.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 5,
@@ -1150,7 +1150,7 @@
                         }
                     ],
                     "explanation": "Selection in Genetic Algorithms often includes mechanisms like roulette wheel or tournament selection, which give a chance to less fit individuals.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 9,
@@ -1214,7 +1214,7 @@
                         }
                     ],
                     "explanation": "Blend crossover is a crossover operator used in Genetic Algorithms to create new offspring from parent solutions.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 12,
@@ -1270,7 +1270,7 @@
                         }
                     ],
                     "explanation": "In Genetic Algorithms, too many generations can cause the algorithm to overfit the training data, emphasizing exploration at the expense of exploitation.",
-                    "finished": false
+                    "finished": true
                 }
             ]
         }
