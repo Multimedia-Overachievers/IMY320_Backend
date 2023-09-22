@@ -26,7 +26,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "The three rules of epidemics are 'The Law of the Few,' 'the Stickiness Factor,' and 'the Power of Context' because these factors collectively explain how trends and behaviors spread through a population.",
+                    "explanation": "The three rules of epidemics are 'The Law of the Few,' 'the Stickiness Factor,' and 'the Power of Context' because these factors collectively explain how trends and behaviors spread through a population.",
                     "finished": false
                 },
                 {
@@ -42,7 +42,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "A fad is typically characterized by a rapid rise in popularity and a relatively quick decline, not a behavior that takes a long time to fade away.",
+                    "explanation": "A fad is typically characterized by a rapid rise in popularity and a relatively quick decline, not a behavior that takes a long time to fade away.",
                     "finished": false
                 },
                 {
@@ -66,7 +66,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "A change can only be considered a trend when a statistical test confirms it because trends are based on data and require statistical validation to ensure their significance.",
+                    "explanation": "A change can only be considered a trend when a statistical test confirms it because trends are based on data and require statistical validation to ensure their significance.",
                     "finished": false
                 },
                 {
@@ -82,7 +82,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "The Diffusion of Innovation refers to the spread of new ideas and technologies, not necessarily within an economic system.",
+                    "explanation": "The Diffusion of Innovation refers to the spread of new ideas and technologies, not necessarily within an economic system.",
                     "finished": false
                 },
                 {
@@ -106,7 +106,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "The Technology Adoption Lifecycle, also known as the Roger Bell Curve, describes how a new product is adopted according to the psychological characteristics of certain user groups.",
+                    "explanation": "The Technology Adoption Lifecycle, also known as the Roger Bell Curve, describes how a new product is adopted according to the psychological characteristics of certain user groups.",
                     "finished": false
                 },
                 {
@@ -122,7 +122,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "The Nexus of Forces are the major drivers of IT market expansion.",
+                    "explanation": "The Nexus of Forces are the major drivers of IT market expansion.",
                     "finished": false
                 },
                 {
@@ -146,7 +146,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "The first phase of the Gartner Hype Cycle is 'Technology Trigger' because this phase marks the initial introduction and excitement surrounding a new technology.",
+                    "explanation": "The first phase of the Gartner Hype Cycle is 'Technology Trigger' because this phase marks the initial introduction and excitement surrounding a new technology.",
                     "finished": false
                 },
                 {
@@ -170,7 +170,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "In the Peak of Inflated Expectations, a piece of technology begins to become hyped up, leading to unrealistic expectations and eventual disillusionment.",
+                    "explanation": "In the Peak of Inflated Expectations, a piece of technology begins to become hyped up, leading to unrealistic expectations and eventual disillusionment.",
                     "finished": false
                 },
                 {
@@ -186,7 +186,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "An aggregator is a website that accumulates different types of information from various sources online.",
+                    "explanation": "An aggregator is a website that accumulates different types of information from various sources online.",
                     "finished": false
                 },
                 {
@@ -202,7 +202,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "YouTube is an example of a web aggregator because it gathers and hosts a wide range of video content from various sources.",
+                    "explanation": "YouTube is an example of a web aggregator because it gathers and hosts a wide range of video content from various sources.",
                     "finished": false
                 },
                 {
@@ -226,7 +226,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "In Fitts’ Law, a touch target should be placed in areas that are easy to reach by the user to optimize user interaction.",
+                    "explanation": "In Fitts’ Law, a touch target should be placed in areas that are easy to reach by the user to optimize user interaction.",
                     "finished": false
                 },
                 {
@@ -242,7 +242,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "A mental model is indeed how we think a system works, representing our understanding of how things operate.",
+                    "explanation": "A mental model is indeed how we think a system works, representing our understanding of how things operate.",
                     "finished": false
                 },
                 {
@@ -266,7 +266,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "If every website followed the same convention, it would allow users to use other sites easier and quicker because they would have a consistent and familiar user experience.",
+                    "explanation": "If every website followed the same convention, it would allow users to use other sites easier and quicker because they would have a consistent and familiar user experience.",
                     "finished": false
                 },
                 {
@@ -282,7 +282,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : " Fitts' Law explains that larger objects take less time to click on, making it quicker to interact with bigger targets.",
+                    "explanation": " Fitts' Law explains that larger objects take less time to click on, making it quicker to interact with bigger targets.",
                     "finished": false
                 },
                 {
@@ -306,7 +306,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "An average adult human's finger pad is typically in the range of 10-14mm.",
+                    "explanation": "An average adult human's finger pad is typically in the range of 10-14mm.",
                     "finished": false
                 }
             ]
@@ -336,7 +336,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "User Experience Design is the process of improving customer satisfaction and loyalty because its primary goal is to enhance the overall user experience, leading to greater satisfaction and loyalty.",
+                    "explanation": "User Experience Design is the process of improving customer satisfaction and loyalty because its primary goal is to enhance the overall user experience, leading to greater satisfaction and loyalty.",
                     "finished": false
                 },
                 {
@@ -352,7 +352,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Goal-Directed Design is indeed about understanding the needs, desires, and contexts of people using products.",
+                    "explanation": "Goal-Directed Design is indeed about understanding the needs, desires, and contexts of people using products.",
                     "finished": false
                 },
                 {
@@ -376,7 +376,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "A represented model is how a system is presented to a user because it represents the user's perception of the system.",
+                    "explanation": "A represented model is how a system is presented to a user because it represents the user's perception of the system.",
                     "finished": false
                 },
                 {
@@ -400,7 +400,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "A persona is a document describing how certain types of people will use your website.",
+                    "explanation": "A persona is a document describing how certain types of people will use your website.",
                     "finished": false
                 },
                 {
@@ -416,7 +416,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "A Task Model shows what users do and the behaviors they adopt but does show the requirements at each stage.",
+                    "explanation": "A Task Model shows what users do and the behaviors they adopt but does show the requirements at each stage.",
                     "finished": false
                 },
                 {
@@ -440,7 +440,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "The priority of how a website should be designed, according to user experience principles, is that how a website feels (its usability and user experience) is more important than how it looks, which, in turn, is more important than how it works.",
+                    "explanation": "The priority of how a website should be designed, according to user experience principles, is that how a website feels (its usability and user experience) is more important than how it looks, which, in turn, is more important than how it works.",
                     "finished": false
                 },
                 {
@@ -464,7 +464,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Cognitive dissonance refers to how the brain tries to rationalize two contradictory concepts.",
+                    "explanation": "Cognitive dissonance refers to how the brain tries to rationalize two contradictory concepts.",
                     "finished": false
                 },
                 {
@@ -480,7 +480,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Desire Lines represent the path of least resistance, making it the easiest way for people to reach their preferred outcome.",
+                    "explanation": "Desire Lines represent the path of least resistance, making it the easiest way for people to reach their preferred outcome.",
                     "finished": false
                 },
                 {
@@ -504,7 +504,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "The three elements of scarcity are infrequent, exclusive, and competition",
+                    "explanation": "The three elements of scarcity are infrequent, exclusive, and competition",
                     "finished": false
                 },
                 {
@@ -528,9 +528,9 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Commercial design aims to create an interface that emotionally engages users in doing something that benefits themselves and the designer",
+                    "explanation": "Commercial design aims to create an interface that emotionally engages users in doing something that benefits themselves and the designer",
                     "finished": false
-                },    
+                },
                 {
                     "id": 10,
                     "question": "Flattery makes people less responsive to persuasion",
@@ -544,7 +544,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Flattery makes people more responsive to persuasion.",
+                    "explanation": "Flattery makes people more responsive to persuasion.",
                     "finished": false
                 },
                 {
@@ -568,7 +568,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "To create desirability for a product, you use secrecy, scarcity, identity, aesthetics, and functionality",
+                    "explanation": "To create desirability for a product, you use secrecy, scarcity, identity, aesthetics, and functionality",
                     "finished": false
                 },
                 {
@@ -592,7 +592,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Hick's Law is about presenting information that doesn't overwhelm people, therefore reducing their cognitive load.",
+                    "explanation": "Hick's Law is about presenting information that doesn't overwhelm people, therefore reducing their cognitive load.",
                     "finished": false
                 },
                 {
@@ -608,7 +608,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Cognitive load refers to the mental resources needed to process something.",
+                    "explanation": "Cognitive load refers to the mental resources needed to process something.",
                     "finished": false
                 },
                 {
@@ -632,7 +632,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Miller's Law focuses on the concept of chunking, which involves breaking information into smaller, manageable chunks.",
+                    "explanation": "Miller's Law focuses on the concept of chunking, which involves breaking information into smaller, manageable chunks.",
                     "finished": false
                 }
             ]
@@ -662,7 +662,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "WebAssembly is based on the structured and stack machine programming paradigms because it's a binary instruction format designed for safe and efficient execution on web browsers.",
+                    "explanation": "WebAssembly is based on the structured and stack machine programming paradigms because it's a binary instruction format designed for safe and efficient execution on web browsers.",
                     "finished": false
                 },
                 {
@@ -678,7 +678,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "WebAssembly is not a replacement for JavaScript; it's a complementary technology designed to work alongside JavaScript",
+                    "explanation": "WebAssembly is not a replacement for JavaScript; it's a complementary technology designed to work alongside JavaScript",
                     "finished": false
                 },
                 {
@@ -702,7 +702,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Micro Frontends are also referred to as 'Frontend Monolith' because they are a way to break down a monolithic frontend into smaller, independently deployable parts.",
+                    "explanation": "Micro Frontends are also referred to as 'Frontend Monolith' because they are a way to break down a monolithic frontend into smaller, independently deployable parts.",
                     "finished": false
                 },
                 {
@@ -726,7 +726,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Continuous Integration and Deployment consists of Continuous Integration, Continuous Delivery, and Continuous Deployment",
+                    "explanation": "Continuous Integration and Deployment consists of Continuous Integration, Continuous Delivery, and Continuous Deployment",
                     "finished": false
                 },
                 {
@@ -742,7 +742,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Low-Code allows users to create applications using graphical tools but still provides the option of writing code if desired.",
+                    "explanation": "Low-Code allows users to create applications using graphical tools but still provides the option of writing code if desired.",
                     "finished": false
                 },
                 {
@@ -758,7 +758,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "A design's concept should be determined by the users because user-centered design focuses on meeting user needs and preferences.",
+                    "explanation": "A design's concept should be determined by the users because user-centered design focuses on meeting user needs and preferences.",
                     "finished": false
                 },
                 {
@@ -782,7 +782,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Branding is how a company tries to engage with its audience and how it makes them feel.",
+                    "explanation": "Branding is how a company tries to engage with its audience and how it makes them feel.",
                     "finished": false
                 },
                 {
@@ -806,7 +806,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Composition is indeed the placement of visual elements on a page",
+                    "explanation": "Composition is indeed the placement of visual elements on a page",
                     "finished": false
                 },
                 {
@@ -822,7 +822,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Hierarchy in design can be created through scaling, placement, and color.",
+                    "explanation": "Hierarchy in design can be created through scaling, placement, and color.",
                     "finished": false
                 },
                 {
@@ -846,7 +846,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "The success of a design is defined through Accessibility, Usability, and Sustainability.",
+                    "explanation": "The success of a design is defined through Accessibility, Usability, and Sustainability.",
                     "finished": false
                 },
                 {
@@ -870,7 +870,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Postel's Law follows the concept of 'Be conservative in what you do, be liberal in what you accept from others'.",
+                    "explanation": "Postel's Law follows the concept of 'Be conservative in what you do, be liberal in what you accept from others'.",
                     "finished": false
                 },
                 {
@@ -886,7 +886,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "The Peak-end rule includes both positive and negative peaks.",
+                    "explanation": "The Peak-end rule includes both positive and negative peaks.",
                     "finished": false
                 },
                 {
@@ -910,7 +910,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Progressive Enhancement involves providing access to simple content and functionality first, with more advanced features available for capable clients.",
+                    "explanation": "Progressive Enhancement involves providing access to simple content and functionality first, with more advanced features available for capable clients.",
                     "finished": false
                 },
                 {
@@ -926,7 +926,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Cognitive bias refers to the irrationality in judgment that influences our decision-making abilities.",
+                    "explanation": "Cognitive bias refers to the irrationality in judgment that influences our decision-making abilities.",
                     "finished": false
                 },
                 {
@@ -942,7 +942,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "People tend to remember their positive experiences more clearly than their negative ones.",
+                    "explanation": "People tend to remember their positive experiences more clearly than their negative ones.",
                     "finished": false
                 }
             ]
@@ -972,7 +972,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : " - TRUE. One of Dieter Rams' 10 Principles of good design is 'Innovative' because good design often involves creative and forward-thinking solutions..",
+                    "explanation": " - TRUE. One of Dieter Rams' 10 Principles of good design is 'Innovative' because good design often involves creative and forward-thinking solutions..",
                     "finished": false
                 },
                 {
@@ -996,7 +996,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Affordances in design are relative to the individual and their ability to interact because they depend on the user's perception and understanding of how elements can be used.",
+                    "explanation": "Affordances in design are relative to the individual and their ability to interact because they depend on the user's perception and understanding of how elements can be used.",
                     "finished": false
                 },
                 {
@@ -1012,7 +1012,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Flat design is indeed a UI design approach that focuses on using 2D elements to create form and function.",
+                    "explanation": "Flat design is indeed a UI design approach that focuses on using 2D elements to create form and function.",
                     "finished": false
                 },
                 {
@@ -1036,7 +1036,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Material Design is inspired by the physical world, drawing inspiration from real-world materials and their behaviors.",
+                    "explanation": "Material Design is inspired by the physical world, drawing inspiration from real-world materials and their behaviors.",
                     "finished": false
                 },
                 {
@@ -1060,7 +1060,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Metaphors are part of the Human Interface design principle because they provide familiar symbols and representations for users to understand and interact with digital interfaces.",
+                    "explanation": "Metaphors are part of the Human Interface design principle because they provide familiar symbols and representations for users to understand and interact with digital interfaces.",
                     "finished": false
                 },
                 {
@@ -1076,7 +1076,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "iOS typically follows Human Interface Guidelines (HIG), while Android often uses Material Design as their respective design principles.",
+                    "explanation": "iOS typically follows Human Interface Guidelines (HIG), while Android often uses Material Design as their respective design principles.",
                     "finished": false
                 },
                 {
@@ -1100,7 +1100,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "A good mobile site is made by prioritizing UX Research, ensuring that the design is based on user needs and behaviors.",
+                    "explanation": "A good mobile site is made by prioritizing UX Research, ensuring that the design is based on user needs and behaviors.",
                     "finished": false
                 },
                 {
@@ -1124,7 +1124,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : " Incremental learning and updating is a context-aware learning rule, as it involves adapting and updating knowledge based on changing contexts.",
+                    "explanation": " Incremental learning and updating is a context-aware learning rule, as it involves adapting and updating knowledge based on changing contexts.",
                     "finished": false
                 },
                 {
@@ -1140,7 +1140,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Mobile AR is advantaged by the widely distributed base of hardware like smartphones and tablets because almost everyone has them.",
+                    "explanation": "Mobile AR is advantaged by the widely distributed base of hardware like smartphones and tablets because almost everyone has them.",
                     "finished": false
                 },
                 {
@@ -1164,7 +1164,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "VR (Virtual Reality) is an environment you can currently access through specialized equipment, such as VR headsets.",
+                    "explanation": "VR (Virtual Reality) is an environment you can currently access through specialized equipment, such as VR headsets.",
                     "finished": false
                 },
                 {
@@ -1188,7 +1188,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "AR (Augmented Reality) is most prominent in the field of Gaming, where it is widely used to enhance gaming experiences by overlaying digital elements on the real world.",
+                    "explanation": "AR (Augmented Reality) is most prominent in the field of Gaming, where it is widely used to enhance gaming experiences by overlaying digital elements on the real world.",
                     "finished": false
                 },
                 {
@@ -1204,7 +1204,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Context-aware applications use information about a person to improve their user experience by personalizing content to their liking.",
+                    "explanation": "Context-aware applications use information about a person to improve their user experience by personalizing content to their liking.",
                     "finished": false
                 },
                 {
@@ -1228,7 +1228,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "You make consistency in design through visual, functional, and external consistencies, ensuring that elements look, behave, and are positioned consistently.",
+                    "explanation": "You make consistency in design through visual, functional, and external consistencies, ensuring that elements look, behave, and are positioned consistently.",
                     "finished": false
                 },
                 {
@@ -1252,7 +1252,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "You should consider how your use of color is viewed in other countries to ensure cultural sensitivity and accessibility.",
+                    "explanation": "You should consider how your use of color is viewed in other countries to ensure cultural sensitivity and accessibility.",
                     "finished": false
                 },
                 {
@@ -1268,7 +1268,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Motion in design focuses on attention and maintains continuity through feedback and transitions.",
+                    "explanation": "Motion in design focuses on attention and maintains continuity through feedback and transitions.",
                     "finished": false
                 }
             ]

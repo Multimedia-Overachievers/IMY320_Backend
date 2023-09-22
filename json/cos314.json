@@ -26,7 +26,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Real-world applications often involve a combination of inductive learning, which helps generalize from specific data, and deductive reasoning, which involves drawing conclusions based on established rules or premises.",
+                    "explanation": "Real-world applications often involve a combination of inductive learning, which helps generalize from specific data, and deductive reasoning, which involves drawing conclusions based on established rules or premises.",
                     "finished": false
                 },
                 {
@@ -50,7 +50,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "This is an example of invalid deductive reasoning because it makes an incorrect conclusion based on a general statement (all kids like burgers) and a specific case (John likes hotdogs), which does not logically lead to the conclusion that John is not a kid.",
+                    "explanation": "This is an example of invalid deductive reasoning because it makes an incorrect conclusion based on a general statement (all kids like burgers) and a specific case (John likes hotdogs), which does not logically lead to the conclusion that John is not a kid.",
                     "finished": false
                 },
                 {
@@ -74,7 +74,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Induction involves drawing general conclusions or patterns from specific observations or data.",
+                    "explanation": "Induction involves drawing general conclusions or patterns from specific observations or data.",
                     "finished": false
                 },
                 {
@@ -90,7 +90,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Tax calculators typically use deductive reasoning to apply tax rules and formulas to specific financial information in order to calculate tax amounts.",
+                    "explanation": "Tax calculators typically use deductive reasoning to apply tax rules and formulas to specific financial information in order to calculate tax amounts.",
                     "finished": false
                 },
                 {
@@ -114,7 +114,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Machine learning combines deductive reasoning (when defining algorithms and models) and inductive learning (when generalizing patterns from data) to make predictions or decisions.",
+                    "explanation": "Machine learning combines deductive reasoning (when defining algorithms and models) and inductive learning (when generalizing patterns from data) to make predictions or decisions.",
                     "finished": false
                 },
                 {
@@ -138,7 +138,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Inductive learning is well-suited for situations with noisy data because it can find patterns and generalizations even in the presence of data imperfections.",
+                    "explanation": "Inductive learning is well-suited for situations with noisy data because it can find patterns and generalizations even in the presence of data imperfections.",
                     "finished": false
                 },
                 {
@@ -154,7 +154,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Artificial Neural Networks and Decision Trees are machine learning models that rely on inductive learning to make predictions or classifications based on data.",
+                    "explanation": "Artificial Neural Networks and Decision Trees are machine learning models that rely on inductive learning to make predictions or classifications based on data.",
                     "finished": false
                 },
                 {
@@ -170,7 +170,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "In a fully observable environment, the agent may have limitations or partial access to the entire state, which can affect decision-making.",
+                    "explanation": "In a fully observable environment, the agent may have limitations or partial access to the entire state, which can affect decision-making.",
                     "finished": false
                 },
                 {
@@ -194,7 +194,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Deterministic environments are those in which the outcome of an action is entirely determined by the current state and the action taken, leading to a unique next state.",
+                    "explanation": "Deterministic environments are those in which the outcome of an action is entirely determined by the current state and the action taken, leading to a unique next state.",
                     "finished": false
                 },
                 {
@@ -218,7 +218,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "In a static environment, the rules and conditions typically remain constant, and the agent's actions are based on a fixed set of rules.",
+                    "explanation": "In a static environment, the rules and conditions typically remain constant, and the agent's actions are based on a fixed set of rules.",
                     "finished": false
                 },
                 {
@@ -242,7 +242,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "In a discrete environment, both the state space (possible states) and action space (possible actions) are clearly defined and finite.",
+                    "explanation": "In a discrete environment, both the state space (possible states) and action space (possible actions) are clearly defined and finite.",
                     "finished": false
                 },
                 {
@@ -266,7 +266,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "In a single-agent environment, there is only one agent interacting with the environment, as opposed to multiple agents.",
+                    "explanation": "In a single-agent environment, there is only one agent interacting with the environment, as opposed to multiple agents.",
                     "finished": false
                 },
                 {
@@ -282,7 +282,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Crossword puzzles typically involve interactions with other agents (other people) who create or solve the puzzles, making it a multi-agent environment.",
+                    "explanation": "Crossword puzzles typically involve interactions with other agents (other people) who create or solve the puzzles, making it a multi-agent environment.",
                     "finished": false
                 },
                 {
@@ -306,7 +306,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "The traveling salesman problem is known to be an NP-Hard problem, indicating that it is computationally challenging and belongs to a class of difficult problems.",
+                    "explanation": "The traveling salesman problem is known to be an NP-Hard problem, indicating that it is computationally challenging and belongs to a class of difficult problems.",
                     "finished": false
                 },
                 {
@@ -322,7 +322,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Problems in the P class are those that can be solved in polynomial time, making them computationally tractable.",
+                    "explanation": "Problems in the P class are those that can be solved in polynomial time, making them computationally tractable.",
                     "finished": false
                 }
             ]
@@ -352,7 +352,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "An admissible algorithm will always find the optimal solution or the shortest path if one exists.",
+                    "explanation": "An admissible algorithm will always find the optimal solution or the shortest path if one exists.",
                     "finished": false
                 },
                 {
@@ -368,7 +368,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "A state space encompasses all possible states or configurations that a system or problem can take.",
+                    "explanation": "A state space encompasses all possible states or configurations that a system or problem can take.",
                     "finished": false
                 },
                 {
@@ -392,7 +392,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "The traveling salesman problem involves finding the shortest path in a network of cities and can be accurately represented as a graph.",
+                    "explanation": "The traveling salesman problem involves finding the shortest path in a network of cities and can be accurately represented as a graph.",
                     "finished": false
                 },
                 {
@@ -416,7 +416,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "State spaces are often generated dynamically during problem-solving because the entire state space may be unknown or too large to precompute.",
+                    "explanation": "State spaces are often generated dynamically during problem-solving because the entire state space may be unknown or too large to precompute.",
                     "finished": false
                 },
                 {
@@ -440,7 +440,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Graphs are suitable for representing state spaces when there are cyclic relationships or loops between states.",
+                    "explanation": "Graphs are suitable for representing state spaces when there are cyclic relationships or loops between states.",
                     "finished": false
                 },
                 {
@@ -456,7 +456,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Depth First Search (DFS) typically uses a stack (or recursion) to maintain nodes as it explores deeper into the search tree.",
+                    "explanation": "Depth First Search (DFS) typically uses a stack (or recursion) to maintain nodes as it explores deeper into the search tree.",
                     "finished": false
                 },
                 {
@@ -480,7 +480,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Depth First Search with Iterative Deepening is a complete search algorithm that guarantees finding the shortest path to the goal.",
+                    "explanation": "Depth First Search with Iterative Deepening is a complete search algorithm that guarantees finding the shortest path to the goal.",
                     "finished": false
                 },
                 {
@@ -496,7 +496,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Breadth First Search (BFS) tends to have a good branching factor because it explores all nodes at the current level before moving to the next level.",
+                    "explanation": "Breadth First Search (BFS) tends to have a good branching factor because it explores all nodes at the current level before moving to the next level.",
                     "finished": false
                 },
                 {
@@ -520,7 +520,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Heuristics are simplifications or approximations used in problem-solving and are often considered 'weak' because they may not always guarantee the optimal solution.",
+                    "explanation": "Heuristics are simplifications or approximations used in problem-solving and are often considered 'weak' because they may not always guarantee the optimal solution.",
                     "finished": false
                 },
                 {
@@ -536,7 +536,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "A good heuristic should be computationally efficient and provide a quick estimate of the distance or cost to the goal.",
+                    "explanation": "A good heuristic should be computationally efficient and provide a quick estimate of the distance or cost to the goal.",
                     "finished": false
                 },
                 {
@@ -560,7 +560,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Hill-Climbing algorithms can get trapped in local optima because they make moves that lead to improved states but may not explore other paths that could lead to a global optimum.",
+                    "explanation": "Hill-Climbing algorithms can get trapped in local optima because they make moves that lead to improved states but may not explore other paths that could lead to a global optimum.",
                     "finished": false
                 },
                 {
@@ -584,7 +584,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Uninformed searches, such as Breadth First Search, are complete in the sense that they will always find a solution if one exists within the search space.",
+                    "explanation": "Uninformed searches, such as Breadth First Search, are complete in the sense that they will always find a solution if one exists within the search space.",
                     "finished": false
                 },
                 {
@@ -600,7 +600,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Branch and Bound techniques selectively explore portions of the search space and do not necessarily search the entire space.",
+                    "explanation": "Branch and Bound techniques selectively explore portions of the search space and do not necessarily search the entire space.",
                     "finished": false
                 },
                 {
@@ -624,7 +624,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Best First Search prioritizes nodes based on a heuristic evaluation function, selecting the one with the lowest estimated cost for expansion.",
+                    "explanation": "Best First Search prioritizes nodes based on a heuristic evaluation function, selecting the one with the lowest estimated cost for expansion.",
                     "finished": false
                 },
                 {
@@ -640,14 +640,14 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Greedy Hill-Climbing is less likely to get stuck in local optima because it makes more opportunistic choices based on the heuristic, although it's still not guaranteed to find the global optimum.",
+                    "explanation": "Greedy Hill-Climbing is less likely to get stuck in local optima because it makes more opportunistic choices based on the heuristic, although it's still not guaranteed to find the global optimum.",
                     "finished": false
                 }
             ]
         },
         {
             "id": 2,
-            "name": "Chapter 3",
+            "name": "Chapter 3 - Local Optima",
             "questions": [
                 {
                     "id": 0,
@@ -662,7 +662,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Local search algorithms, by nature, focus on improving the current solution by exploring neighboring solutions. They can indeed get stuck in a local maximum if they do not explore beyond the immediate neighborhood.",
+                    "explanation": "Local search algorithms, by nature, focus on improving the current solution by exploring neighboring solutions. They can indeed get stuck in a local maximum if they do not explore beyond the immediate neighborhood.",
                     "finished": false
                 },
                 {
@@ -686,7 +686,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "In a plateau, all neighboring states have similar or identical objective function values, making it challenging for the search algorithm to find a direction of improvement.",
+                    "explanation": "In a plateau, all neighboring states have similar or identical objective function values, making it challenging for the search algorithm to find a direction of improvement.",
                     "finished": false
                 },
                 {
@@ -702,7 +702,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Combinatorial optimization problems aim to find the best solution that minimizes or maximizes a specific objective function, which can represent various criteria.",
+                    "explanation": "Combinatorial optimization problems aim to find the best solution that minimizes or maximizes a specific objective function, which can represent various criteria.",
                     "finished": false
                 },
                 {
@@ -726,7 +726,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Perturbative search methods involve making small or substantial modifications to existing candidate solutions to explore new possibilities in the search space.",
+                    "explanation": "Perturbative search methods involve making small or substantial modifications to existing candidate solutions to explore new possibilities in the search space.",
                     "finished": false
                 },
                 {
@@ -750,7 +750,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Local search algorithms do not guarantee finding the global optimum and can get stuck in local optima, making them incomplete.",
+                    "explanation": "Local search algorithms do not guarantee finding the global optimum and can get stuck in local optima, making them incomplete.",
                     "finished": false
                 },
                 {
@@ -774,7 +774,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Metaheuristics often incorporate randomness or probabilistic components in their algorithms to explore diverse parts of the search space.",
+                    "explanation": "Metaheuristics often incorporate randomness or probabilistic components in their algorithms to explore diverse parts of the search space.",
                     "finished": false
                 },
                 {
@@ -798,7 +798,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Metaheuristics balance exploration (searching for new solutions) and exploitation (refining current solutions) to find good-quality solutions efficiently.",
+                    "explanation": "Metaheuristics balance exploration (searching for new solutions) and exploitation (refining current solutions) to find good-quality solutions efficiently.",
                     "finished": false
                 },
                 {
@@ -814,7 +814,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Metaheuristics aim to find good solutions but do not guarantee optimality, especially for complex problems with large search spaces.",
+                    "explanation": "Metaheuristics aim to find good solutions but do not guarantee optimality, especially for complex problems with large search spaces.",
                     "finished": false
                 },
                 {
@@ -838,7 +838,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Intensification strategies in optimization involve focusing on improving the current solution, which is a key characteristic of Hill-Climbing.",
+                    "explanation": "Intensification strategies in optimization involve focusing on improving the current solution, which is a key characteristic of Hill-Climbing.",
                     "finished": false
                 },
                 {
@@ -862,7 +862,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Iterated Local Search combines local search with perturbation to explore different areas of the search space by introducing controlled randomness.",
+                    "explanation": "Iterated Local Search combines local search with perturbation to explore different areas of the search space by introducing controlled randomness.",
                     "finished": false
                 },
                 {
@@ -878,7 +878,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Perturbation introduces randomness or significant changes to the current solution, helping the search escape local minima and explore new regions of the search space.",
+                    "explanation": "Perturbation introduces randomness or significant changes to the current solution, helping the search escape local minima and explore new regions of the search space.",
                     "finished": false
                 },
                 {
@@ -902,7 +902,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Tabu Search exploits the search space by maintaining a tabu list that restricts revisiting previously explored solutions.",
+                    "explanation": "Tabu Search exploits the search space by maintaining a tabu list that restricts revisiting previously explored solutions.",
                     "finished": false
                 },
                 {
@@ -926,7 +926,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Tabu Search and Hill Climbing both focus on improving the current solution, but Tabu Search employs additional mechanisms like the tabu list to escape local optima.",
+                    "explanation": "Tabu Search and Hill Climbing both focus on improving the current solution, but Tabu Search employs additional mechanisms like the tabu list to escape local optima.",
                     "finished": false
                 },
                 {
@@ -942,7 +942,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Without limitations, the tabu list in Tabu Search can grow indefinitely, potentially impacting the algorithm's efficiency and memory usage.",
+                    "explanation": "Without limitations, the tabu list in Tabu Search can grow indefinitely, potentially impacting the algorithm's efficiency and memory usage.",
                     "finished": false
                 },
                 {
@@ -958,14 +958,14 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Exploitation, which refines the current solution, reduces the likelihood of getting stuck in a local optima. However, it does not guarantee avoidance in all cases.",
+                    "explanation": "Exploitation, which refines the current solution, reduces the likelihood of getting stuck in a local optima. However, it does not guarantee avoidance in all cases.",
                     "finished": false
                 }
             ]
         },
         {
             "id": 3,
-            "name": "Chapter 4",
+            "name": "Chapter 4 - Search and Metaheuristics",
             "questions": [
                 {
                     "id": 0,
@@ -980,7 +980,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "A single-point search typically focuses on finding a single solution, not multiple solutions.",
+                    "explanation": "A single-point search typically focuses on finding a single solution, not multiple solutions.",
                     "finished": false
                 },
                 {
@@ -996,7 +996,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "The path length or the optimization objective's value is relevant to most problems as it represents the quality of the solution.",
+                    "explanation": "The path length or the optimization objective's value is relevant to most problems as it represents the quality of the solution.",
                     "finished": false
                 },
                 {
@@ -1020,7 +1020,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Variable Neighborhood Search is a single-point search technique that iteratively explores different neighborhoods of the current solution.",
+                    "explanation": "Variable Neighborhood Search is a single-point search technique that iteratively explores different neighborhoods of the current solution.",
                     "finished": false
                 },
                 {
@@ -1044,7 +1044,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Simulated Annealing can accept worse solutions with a certain probability, which can slow down the convergence towards the optimal solution.",
+                    "explanation": "Simulated Annealing can accept worse solutions with a certain probability, which can slow down the convergence towards the optimal solution.",
                     "finished": false
                 },
                 {
@@ -1068,7 +1068,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Simulated Annealing explores the search space by occasionally accepting worse solutions to escape local optima.",
+                    "explanation": "Simulated Annealing explores the search space by occasionally accepting worse solutions to escape local optima.",
                     "finished": false
                 },
                 {
@@ -1084,7 +1084,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Genetic Algorithms use various probability rates, such as crossover and mutation probabilities, to guide the evolutionary process.",
+                    "explanation": "Genetic Algorithms use various probability rates, such as crossover and mutation probabilities, to guide the evolutionary process.",
                     "finished": false
                 },
                 {
@@ -1108,7 +1108,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Genetic Algorithms introduce diversity and explore the search space by applying mutations to individuals from the parent population.",
+                    "explanation": "Genetic Algorithms introduce diversity and explore the search space by applying mutations to individuals from the parent population.",
                     "finished": false
                 },
                 {
@@ -1132,7 +1132,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Sensible Initialization is a common method for generating the initial population in a Genetic Algorithm.",
+                    "explanation": "Sensible Initialization is a common method for generating the initial population in a Genetic Algorithm.",
                     "finished": false
                 },
                 {
@@ -1148,7 +1148,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Selection in Genetic Algorithms often includes mechanisms like roulette wheel or tournament selection, which give a chance to less fit individuals.",
+                    "explanation": "Selection in Genetic Algorithms often includes mechanisms like roulette wheel or tournament selection, which give a chance to less fit individuals.",
                     "finished": false
                 },
                 {
@@ -1164,7 +1164,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "A larger population size can increase exploration and diversity, potentially leading to faster convergence to a solution.",
+                    "explanation": "A larger population size can increase exploration and diversity, potentially leading to faster convergence to a solution.",
                     "finished": false
                 },
                 {
@@ -1188,7 +1188,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Tournament Selection is a common method used in Genetic Algorithms to select individuals for reproduction.",
+                    "explanation": "Tournament Selection is a common method used in Genetic Algorithms to select individuals for reproduction.",
                     "finished": false
                 },
                 {
@@ -1212,7 +1212,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Blend crossover is a crossover operator used in Genetic Algorithms to create new offspring from parent solutions.",
+                    "explanation": "Blend crossover is a crossover operator used in Genetic Algorithms to create new offspring from parent solutions.",
                     "finished": false
                 },
                 {
@@ -1228,7 +1228,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "A low mutation rate means that only a small percentage of the genetic information changes during each generation, which can introduce randomness.",
+                    "explanation": "A low mutation rate means that only a small percentage of the genetic information changes during each generation, which can introduce randomness.",
                     "finished": false
                 },
                 {
@@ -1252,7 +1252,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Flip Bit mutation involves flipping the value of a gene or bit in an individual's representation.",
+                    "explanation": "Flip Bit mutation involves flipping the value of a gene or bit in an individual's representation.",
                     "finished": false
                 },
                 {
@@ -1268,7 +1268,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "In Genetic Algorithms, too many generations can cause the algorithm to overfit the training data, emphasizing exploration at the expense of exploitation.",
+                    "explanation": "In Genetic Algorithms, too many generations can cause the algorithm to overfit the training data, emphasizing exploration at the expense of exploitation.",
                     "finished": false
                 }
             ]
