@@ -3,7 +3,7 @@
     "chapters": [
         {
             "id": 0,
-            "name": "Chapter 1 - Preliminaries",
+            "name": "Preliminaries",
             "questions": [
                 {
                     "id": 0,
@@ -321,7 +321,7 @@
         },
         {
             "id": 1,
-            "name": "Chapter 2 - Evolution of the Major Programming Languages",
+            "name": "Evolution of the Major Programming Languages",
             "questions": [
                 {
                     "id": 0,
@@ -623,7 +623,7 @@
         },
         {
             "id": 2,
-            "name": "Chapter 3 - Functional Programming Languages",
+            "name": "Functional Programming Languages",
             "questions": [
                 {
                     "id": 0,
@@ -941,7 +941,7 @@
         },
         {
             "id": 3,
-            "name": "Chapter 4 - Logic Programming Languages",
+            "name": "Logic Programming Languages",
             "questions": [
                 {
                     "id": 0,

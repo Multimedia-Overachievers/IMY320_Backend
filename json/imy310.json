@@ -3,7 +3,7 @@
     "chapters": [
         {
             "id": 0,
-            "name": "Chapter 1 - What is Interaction Design?",
+            "name": "What is Interaction Design?",
             "questions": [
                 {
                     "id": 0,
@@ -329,7 +329,7 @@
         },
         {
             "id": 1,
-            "name": "Chapter 2 - The Process of Interaction Design",
+            "name": "The Process of Interaction Design",
             "questions": [
                 {
                     "id": 0,
@@ -647,7 +647,7 @@
         },
         {
             "id": 2,
-            "name": "Chapter 3 - Conceptualizing Interaction",
+            "name": "Conceptualizing Interaction",
             "questions": [
                 {
                     "id": 0,
@@ -965,7 +965,7 @@
         },
         {
             "id": 3,
-            "name": "Chapter 4 - Cognitive Aspects",
+            "name": "Cognitive Aspects",
             "questions": [
                 {
                     "id": 0,
