@@ -27,8 +27,8 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Understanding programming languages contributes to the overall advancement of computing by enabling the development of more efficient and innovative software.",
-                    "finished": false
+                    "explanation": "Understanding programming languages contributes to the overall advancement of computing by enabling the development of more efficient and innovative software.",
+                    "finished": true
                 },
                 {
                     "id": 1,
@@ -43,7 +43,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "In a programming language, if a certain data structure or feature is not natively supported, you can still create simulations or workarounds to achieve the desired functionality.",
+                    "explanation": "In a programming language, if a certain data structure or feature is not natively supported, you can still create simulations or workarounds to achieve the desired functionality.",
                     "finished": false
                 },
                 {
@@ -59,7 +59,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "It's preferable to select a programming language that natively supports a major feature rather than using another language where you have to simulate it, as it usually results in more efficient and maintainable code.",
+                    "explanation": "It's preferable to select a programming language that natively supports a major feature rather than using another language where you have to simulate it, as it usually results in more efficient and maintainable code.",
                     "finished": false
                 },
                 {
@@ -83,7 +83,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "C++ provides extensive capabilities for writing code, making it a powerful language for developing software.",
+                    "explanation": "C++ provides extensive capabilities for writing code, making it a powerful language for developing software.",
                     "finished": false
                 },
                 {
@@ -99,7 +99,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "This statement is false because ALGOL 68 is considered more orthogonal than PL/1 because more constructs can be combined in ALGOL 68 with minimal exceptions.",
+                    "explanation": "This statement is false because ALGOL 68 is considered more orthogonal than PL/1 because more constructs can be combined in ALGOL 68 with minimal exceptions.",
                     "finished": false
                 },
                 {
@@ -123,8 +123,8 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "It costs money to train developers in-house.",
-                    "finished": false
+                    "explanation": "It costs money to train developers in-house.",
+                    "finished": true
                 },
                 {
                     "id": 6,
@@ -147,7 +147,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Prolog gained prominence as a programming language primarily used in the field of Artificial Intelligence due to its logical reasoning capabilities.",
+                    "explanation": "Prolog gained prominence as a programming language primarily used in the field of Artificial Intelligence due to its logical reasoning capabilities.",
                     "finished": false
                 },
                 {
@@ -171,8 +171,8 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Imperative languages are designed to work with von Neumann architecture, where instructions and data share the same memory and are fetched from memory to the CPU.",
-                    "finished": false
+                    "explanation": "Imperative languages are designed to work with von Neumann architecture, where instructions and data share the same memory and are fetched from memory to the CPU.",
+                    "finished": true
                 },
                 {
                     "id": 8,
@@ -187,8 +187,8 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Object-oriented programming gained widespread adoption in the mid-1980s, with languages like C++ and Smalltalk contributing to its popularity.",
-                    "finished": false
+                    "explanation": "Object-oriented programming gained widespread adoption in the mid-1980s, with languages like C++ and Smalltalk contributing to its popularity.",
+                    "finished": true
                 },
                 {
                     "id": 9,
@@ -211,7 +211,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Perl is primarily an imperative and scripting language, not a functional programming language.",
+                    "explanation": "Perl is primarily an imperative and scripting language, not a functional programming language.",
                     "finished": false
                 },
                 {
@@ -235,7 +235,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "In compilation, programs are translated into machine code before execution, whereas pure interpretation executes code directly without prior translation.",
+                    "explanation": "In compilation, programs are translated into machine code before execution, whereas pure interpretation executes code directly without prior translation.",
                     "finished": false
                 },
                 {
@@ -259,7 +259,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Parse analysis is not a part of the compilation process; it's typically part of syntax analysis.",
+                    "explanation": "Parse analysis is not a part of the compilation process; it's typically part of syntax analysis.",
                     "finished": false
                 },
                 {
@@ -275,7 +275,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Compilation often results in faster execution because the code is translated into a more optimized form, while pure interpretation executes code line-by-line.",
+                    "explanation": "Compilation often results in faster execution because the code is translated into a more optimized form, while pure interpretation executes code line-by-line.",
                     "finished": false
                 },
                 {
@@ -299,7 +299,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Scripting languages often use pure interpretation because they need to work across different browsers and operating systems without the need for compilation.",
+                    "explanation": "Scripting languages often use pure interpretation because they need to work across different browsers and operating systems without the need for compilation.",
                     "finished": false
                 },
                 {
@@ -315,8 +315,8 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Java typically uses a combination of compilation and interpretation, with the Java source code compiled into bytecode and then interpreted by the Java Virtual Machine (JVM).",
-                    "finished": false
+                    "explanation": "Java typically uses a combination of compilation and interpretation, with the Java source code compiled into bytecode and then interpreted by the Java Virtual Machine (JVM).",
+                    "finished": true
                 }
             ]
         },
@@ -345,7 +345,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Expression coding typically sacrifices readability, prioritizing concise code over easily understandable code.",
+                    "explanation": "Expression coding typically sacrifices readability, prioritizing concise code over easily understandable code.",
                     "finished": false
                 },
                 {
@@ -361,8 +361,8 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Plankalkul, developed by Konrad Zuse, introduced the concept of invariants in programming languages, which are conditions that must always hold true during program execution.",
-                    "finished": false
+                    "explanation": "Plankalkul, developed by Konrad Zuse, introduced the concept of invariants in programming languages, which are conditions that must always hold true during program execution.",
+                    "finished": true
                 },
                 {
                     "id": 2,
@@ -385,7 +385,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "The UNIVAC compiling systems played a crucial role in the early development of compilation because they were needed to improve the efficiency of programming on machines whose hardware capabilities were not advancing as rapidly as programming languages were evolving.",
+                    "explanation": "The UNIVAC compiling systems played a crucial role in the early development of compilation because they were needed to improve the efficiency of programming on machines whose hardware capabilities were not advancing as rapidly as programming languages were evolving.",
                     "finished": false
                 },
                 {
@@ -401,7 +401,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Fortran 0 was never implemented as a programming language; it was a conceptual precursor to the Fortran programming language.",
+                    "explanation": "Fortran 0 was never implemented as a programming language; it was a conceptual precursor to the Fortran programming language.",
                     "finished": false
                 },
                 {
@@ -417,7 +417,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Fortran is not based on the Object-oriented paradigm. It is primarily an imperative and procedural programming language.",
+                    "explanation": "Fortran is not based on the Object-oriented paradigm. It is primarily an imperative and procedural programming language.",
                     "finished": false
                 },
                 {
@@ -441,7 +441,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "ALGOL 60 aimed to be a universal programming language that could be used on various machines, and one of its goals was to achieve machine independence.",
+                    "explanation": "ALGOL 60 aimed to be a universal programming language that could be used on various machines, and one of its goals was to achieve machine independence.",
                     "finished": false
                 },
                 {
@@ -457,7 +457,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "PL/I is considered not to be fully orthogonal because it introduced some irregularities in language design, making it less consistent in its use of language features.",
+                    "explanation": "PL/I is considered not to be fully orthogonal because it introduced some irregularities in language design, making it less consistent in its use of language features.",
                     "finished": false
                 },
                 {
@@ -481,7 +481,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "ALGOL 60 was designed with a primary goal of providing a language that could express algorithms in a clear and precise manner.",
+                    "explanation": "ALGOL 60 was designed with a primary goal of providing a language that could express algorithms in a clear and precise manner.",
                     "finished": false
                 },
                 {
@@ -497,7 +497,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "C++ is known for its performance and control but not necessarily for high-level reliability features. The reliability of C code depends on the skill of the programmer.",
+                    "explanation": "C++ is known for its performance and control but not necessarily for high-level reliability features. The reliability of C code depends on the skill of the programmer.",
                     "finished": false
                 },
                 {
@@ -521,8 +521,8 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "ALGOL 58 did not have a limitation where variable names could only be 12 characters long, names could consist of any number of characters.",
-                    "finished": false
+                    "explanation": "ALGOL 58 did not have a limitation where variable names could only be 12 characters long, names could consist of any number of characters.",
+                    "finished": true
                 },
                 {
                     "id": 10,
@@ -537,7 +537,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Smalltalk is often credited as the first pure object-oriented programming language.",
+                    "explanation": "Smalltalk is often credited as the first pure object-oriented programming language.",
                     "finished": false
                 },
                 {
@@ -561,7 +561,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "ALGOL 60 intentionally omitted I/O and string handling to ensure machine independence and avoid tying the language to specific hardware or input/output systems.",
+                    "explanation": "ALGOL 60 intentionally omitted I/O and string handling to ensure machine independence and avoid tying the language to specific hardware or input/output systems.",
                     "finished": false
                 },
                 {
@@ -577,7 +577,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "C++ is more powerful and flexible than Java because C++ gives the programmer more control over lower level constructs.",
+                    "explanation": "C++ is more powerful and flexible than Java because C++ gives the programmer more control over lower level constructs.",
                     "finished": false
                 },
                 {
@@ -601,7 +601,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "One of the reasons for ALGOL 60's limited success was its lack of standardized I/O facilities, which made it less practical for real-world programming",
+                    "explanation": "One of the reasons for ALGOL 60's limited success was its lack of standardized I/O facilities, which made it less practical for real-world programming",
                     "finished": false
                 },
                 {
@@ -617,7 +617,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Ruby is a programming language, not a spoken language. It originated in Japan and gained popularity worldwide as a programming language, including in the USA.",
+                    "explanation": "Ruby is a programming language, not a spoken language. It originated in Japan and gained popularity worldwide as a programming language, including in the USA.",
                     "finished": false
                 }
             ]
@@ -639,7 +639,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Functional programming languages are designed to model computations as mathematical functions, emphasizing immutability and the absence of functional side effects.",
+                    "explanation": "Functional programming languages are designed to model computations as mathematical functions, emphasizing immutability and the absence of functional side effects.",
                     "finished": false
                 },
                 {
@@ -655,8 +655,8 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Functional programming languages, in contrast to imperative languages, are not based on the von Neumann architecture, as they emphasize the evaluation of mathematical functions and avoid mutable state.",
-                    "finished": false
+                    "explanation": "Functional programming languages, in contrast to imperative languages, are not based on the von Neumann architecture, as they emphasize the evaluation of mathematical functions and avoid mutable state.",
+                    "finished": true
                 },
                 {
                     "id": 2,
@@ -679,7 +679,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Referential transparency is compromised when mutable state is present because the same function call may yield different results depending on the state of mutable variables.",
+                    "explanation": "Referential transparency is compromised when mutable state is present because the same function call may yield different results depending on the state of mutable variables.",
                     "finished": false
                 },
                 {
@@ -703,7 +703,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "In functional programming, functions are considered first-class citizens, meaning they can be treated as values, passed as arguments to other functions, returned from functions, and assigned to variables.",
+                    "explanation": "In functional programming, functions are considered first-class citizens, meaning they can be treated as values, passed as arguments to other functions, returned from functions, and assigned to variables.",
                     "finished": false
                 },
                 {
@@ -719,7 +719,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "The Scheme interpreter typically operates in a Read-Eval-Print Loop (REPL) mode, allowing users to interactively input and evaluate Scheme expressions.",
+                    "explanation": "The Scheme interpreter typically operates in a Read-Eval-Print Loop (REPL) mode, allowing users to interactively input and evaluate Scheme expressions.",
                     "finished": false
                 },
                 {
@@ -743,7 +743,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "In Scheme's COND construct, if none of the predicate expressions evaluates to true, the COND evaluates to the optional else expression.",
+                    "explanation": "In Scheme's COND construct, if none of the predicate expressions evaluates to true, the COND evaluates to the optional else expression.",
                     "finished": false
                 },
                 {
@@ -767,7 +767,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "In Scheme, POSITIVE? is not a predefined predicate function. Predefined predicates typically include functions like 'EVEN?', 'ODD?', and ZERO?.",
+                    "explanation": "In Scheme, POSITIVE? is not a predefined predicate function. Predefined predicates typically include functions like 'EVEN?', 'ODD?', and ZERO?.",
                     "finished": false
                 },
                 {
@@ -783,7 +783,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "In functional programming, repetition can be achieved through recursion and higher-order functions, not exclusively through control loop structures.",
+                    "explanation": "In functional programming, repetition can be achieved through recursion and higher-order functions, not exclusively through control loop structures.",
                     "finished": false
                 },
                 {
@@ -799,7 +799,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Scheme uses variables to bind values, but it employs lexical scoping and encourages immutability, making variables behave differently than in imperative languages.",
+                    "explanation": "Scheme uses variables to bind values, but it employs lexical scoping and encourages immutability, making variables behave differently than in imperative languages.",
                     "finished": false
                 },
                 {
@@ -823,7 +823,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "The CONS function in Scheme creates a new list by adding the first element ('A) to the front of the second list ('(B C)), resulting in (A B C).",
+                    "explanation": "The CONS function in Scheme creates a new list by adding the first element ('A) to the front of the second list ('(B C)), resulting in (A B C).",
                     "finished": false
                 },
                 {
@@ -847,7 +847,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "In Scheme, the EQUAL function is typically used to compare two lists or other data structures for structural equality.",
+                    "explanation": "In Scheme, the EQUAL function is typically used to compare two lists or other data structures for structural equality.",
                     "finished": false
                 },
                 {
@@ -871,7 +871,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Recursive functions can be slower and consume more memory than equivalent iterative constructs due to the overhead of function calls.",
+                    "explanation": "Recursive functions can be slower and consume more memory than equivalent iterative constructs due to the overhead of function calls.",
                     "finished": false
                 },
                 {
@@ -895,7 +895,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "COMMON LISP does not consider 'variables' as a distinctive feature, as variables are a fundamental concept in most programming languages, including COMMON LISP.",
+                    "explanation": "COMMON LISP does not consider 'variables' as a distinctive feature, as variables are a fundamental concept in most programming languages, including COMMON LISP.",
                     "finished": false
                 },
                 {
@@ -919,7 +919,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "While functional programming languages offer many benefits, they are not necessarily known for inherently efficient execution. Efficiency depends on various factors, including the language implementation and the specific code.",
+                    "explanation": "While functional programming languages offer many benefits, they are not necessarily known for inherently efficient execution. Efficiency depends on various factors, including the language implementation and the specific code.",
                     "finished": false
                 },
                 {
@@ -935,7 +935,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "LISP (List Processing) was one of the earliest programming languages used for Artificial Intelligence research and development.",
+                    "explanation": "LISP (List Processing) was one of the earliest programming languages used for Artificial Intelligence research and development.",
                     "finished": false
                 }
             ]
@@ -957,7 +957,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Logic programming languages, like Prolog, are indeed considered declarative because they focus on specifying what should be done rather than how it should be done.",
+                    "explanation": "Logic programming languages, like Prolog, are indeed considered declarative because they focus on specifying what should be done rather than how it should be done.",
                     "finished": false
                 },
                 {
@@ -981,7 +981,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "A proposition can involve one or more objects or elements that are used to make statements or assertions.",
+                    "explanation": "A proposition can involve one or more objects or elements that are used to make statements or assertions.",
                     "finished": false
                 },
                 {
@@ -997,7 +997,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Logic programming, such as Prolog, is grounded in first-order predicate calculus, which deals with relationships and logical assertions using predicates and quantifiers.",
+                    "explanation": "Logic programming, such as Prolog, is grounded in first-order predicate calculus, which deals with relationships and logical assertions using predicates and quantifiers.",
                     "finished": false
                 },
                 {
@@ -1021,7 +1021,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "An atomic proposition is a basic, indivisible statement in logic, which contrasts with complex propositions that are composed of multiple atomic propositions.",
+                    "explanation": "An atomic proposition is a basic, indivisible statement in logic, which contrasts with complex propositions that are composed of multiple atomic propositions.",
                     "finished": false
                 },
                 {
@@ -1037,7 +1037,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Resolution is a logical inference method used in theorem proving and is a fundamental technique in logic-based programming languages like Prolog.",
+                    "explanation": "Resolution is a logical inference method used in theorem proving and is a fundamental technique in logic-based programming languages like Prolog.",
                     "finished": false
                 },
                 {
@@ -1061,7 +1061,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Prolog primarily consists of Fact Statements (facts about the world), Goal Statements (queries or goals to prove), and Rule Statements (rules defining relationships), but 'Truth Statements' are not a recognized component.",
+                    "explanation": "Prolog primarily consists of Fact Statements (facts about the world), Goal Statements (queries or goals to prove), and Rule Statements (rules defining relationships), but 'Truth Statements' are not a recognized component.",
                     "finished": false
                 },
                 {
@@ -1077,7 +1077,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Rule statements in Prolog are used to define relationships and can be utilized in proving theorems or solving problems.",
+                    "explanation": "Rule statements in Prolog are used to define relationships and can be utilized in proving theorems or solving problems.",
                     "finished": false
                 },
                 {
@@ -1093,7 +1093,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "In Prolog, a theorem is a proposition or statement that you want Prolog to prove or derive based on the given facts and rules.",
+                    "explanation": "In Prolog, a theorem is a proposition or statement that you want Prolog to prove or derive based on the given facts and rules.",
                     "finished": false
                 },
                 {
@@ -1117,7 +1117,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Prolog employs a top-down, left-right inference strategy where it starts with the goal and tries to satisfy it by using available facts and rules.",
+                    "explanation": "Prolog employs a top-down, left-right inference strategy where it starts with the goal and tries to satisfy it by using available facts and rules.",
                     "finished": false
                 },
                 {
@@ -1141,7 +1141,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "In the Prolog tracing model, events like 'Call', 'Exit', and 'Fail' are tracked, but 'Retry' is not one of the standard events.",
+                    "explanation": "In the Prolog tracing model, events like 'Call', 'Exit', and 'Fail' are tracked, but 'Retry' is not one of the standard events.",
                     "finished": false
                 },
                 {
@@ -1157,7 +1157,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "In Prolog, variables on the left-hand side of the 'is' operator (=) must be instantiated (have a value) for the assignment to occur.",
+                    "explanation": "In Prolog, variables on the left-hand side of the 'is' operator (=) must be instantiated (have a value) for the assignment to occur.",
                     "finished": false
                 },
                 {
@@ -1173,8 +1173,8 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "In recursive propositions in Prolog, it is customary to place the base case statements (termination conditions) first to ensure the recursion eventually terminates.",
-                    "finished": false
+                    "explanation": "In recursive propositions in Prolog, it is customary to place the base case statements (termination conditions) first to ensure the recursion eventually terminates.",
+                    "finished": true
                 },
                 {
                     "id": 12,
@@ -1197,7 +1197,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "'The open-world assumption' is not considered a deficiency of Prolog; it is a characteristic that allows for the flexibility of adding new knowledge without causing contradictions.",
+                    "explanation": "'The open-world assumption' is not considered a deficiency of Prolog; it is a characteristic that allows for the flexibility of adding new knowledge without causing contradictions.",
                     "finished": false
                 },
                 {
@@ -1213,7 +1213,7 @@
                             "correct": false
                         }
                     ],
-                    "explanation" : "Prolog provides the 'cut' operator (!) for explicit control over backtracking, allowing programmers to make choices about which solutions to commit to.",
+                    "explanation": "Prolog provides the 'cut' operator (!) for explicit control over backtracking, allowing programmers to make choices about which solutions to commit to.",
                     "finished": false
                 },
                 {
@@ -1229,7 +1229,7 @@
                             "correct": true
                         }
                     ],
-                    "explanation" : "Prolog has been employed in various domains, including business applications, for tasks like rule-based reasoning, expert systems, and knowledge representation.",
+                    "explanation": "Prolog has been employed in various domains, including business applications, for tasks like rule-based reasoning, expert systems, and knowledge representation.",
                     "finished": false
                 }
             ]

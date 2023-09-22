@@ -150,6 +150,9 @@ app.get('/set-all-unfinished', async function (req, res) {
 
 app.post('/update-chapter-question', function (req, res) {
     var moduleCode = GetModuleCode(req.body.moduleIndex);
+    console.log("=========== UPDATE CHAPTER QUESTION ===========");
+    console.log(moduleCode);
+    console.log(req.body.questionIndex);
     
     fs.readFile( "json/" + moduleCode + ".json", 'utf8', function (err, data) {
         var data = JSON.parse(data);
@@ -171,10 +174,14 @@ app.post('/update-chapter-question', function (req, res) {
 
 
 app.post('/add-quiz-score', function (req, res) {
+    console.log("=========== ADD QUIZ SCORE ===========");
+
     fs.readFile( "json/modules.json", 'utf8', function (err, data) {
         var data = JSON.parse(data);
         var module = data.data[req.body.moduleIndex];
         var chapter = module.chapters[req.body.chapterIndex];
+
+        console.log(req.body.score);
 
         chapter.scores.push(parseInt(req.body.score));
         module.timeSpent += parseInt(req.body.quizTime);

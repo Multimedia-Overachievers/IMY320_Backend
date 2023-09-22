@@ -354,7 +354,7 @@
                         }
                     ],
                     "explanation": "Goal-Directed Design is indeed about understanding the needs, desires, and contexts of people using products.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 2,
@@ -482,7 +482,7 @@
                         }
                     ],
                     "explanation": "Desire Lines represent the path of least resistance, making it the easiest way for people to reach their preferred outcome.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 8,
@@ -546,7 +546,7 @@
                         }
                     ],
                     "explanation": "Flattery makes people more responsive to persuasion.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 11,
@@ -634,7 +634,7 @@
                         }
                     ],
                     "explanation": "Miller's Law focuses on the concept of chunking, which involves breaking information into smaller, manageable chunks.",
-                    "finished": false
+                    "finished": true
                 }
             ]
         },

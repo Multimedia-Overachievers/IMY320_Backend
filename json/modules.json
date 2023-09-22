@@ -5,7 +5,7 @@
             "name": "IMY 320",
             "icon": "Website",
             "active": true,
-            "timeSpent": 309,
+            "timeSpent": 342,
             "chapters": [
                 {
                     "index": 0,
@@ -20,7 +20,9 @@
                     "index": 1,
                     "chapter": "Chapter 2 - UX",
                     "description": "This chapter delves into the essential aspects of User Experience design. It distinguishes between User Experience principles and surface-level design trends, emphasizing the importance of creating meaningful and user-centric experiences. Analyzing the key components of effective UX, from usability and accessibility to User Interface design.",
-                    "scores": []
+                    "scores": [
+                        66
+                    ]
                 },
                 {
                     "index": 2,
@@ -120,31 +122,40 @@
             "name": "COS 333",
             "icon": "Terminal",
             "active": false,
-            "timeSpent": 0,
+            "timeSpent": 100,
             "chapters": [
                 {
                     "index": 0,
                     "chapter": "Chapter 1 - Preliminaries",
                     "description": "This chapter delves into the building blocks of programming languages. It covers the importance of studying languages, and the characteristics of certain programming languages.",
-                    "scores": []
+                    "scores": [
+                        83
+                    ]
                 },
                 {
                     "index": 1,
                     "chapter": "Chapter 2 - Evolution of Languages",
                     "description": "This chapter delves into multiple programming languages and their histories. It covers topics such as expression coding, Plankalkul, Fortran, ALGOL 60, and many more.",
-                    "scores": []
+                    "scores": [
+                        33,
+                        0
+                    ]
                 },
                 {
                     "index": 2,
                     "chapter": "Chapter 3 - Functional Programming ",
                     "description": "This chapter focuses on functional programming languages. It covers topics such as the von Neumann architecture, referential transparency, and the characteristics of functional programming languages.",
-                    "scores": []
+                    "scores": [
+                        16
+                    ]
                 },
                 {
                     "index": 3,
                     "chapter": "Chapter 4 - Logic Programming",
                     "description": "This chapter focuses on logic programming languages, primarily focusing on Prolog. It covers topics such as declarative programming, propositions, and the various elements in Prolog like facts, rules, goals.",
-                    "scores": []
+                    "scores": [
+                        16
+                    ]
                 }
             ]
         }
