@@ -8,21 +8,25 @@
             "timeSpent": 202,
             "chapters": [
                 {
+                    "index": 0,
                     "chapter": "Chapter 1 - Trends",
                     "description": "This chapter delves into distinguishing between trends and fads, analyzing the statics of trends, understanding the diffusion of innovation, illustrating the Rogers Bell Curve's role in innovation adoption, identifying tipping points, and discussing the agents of change that influence societal shifts.",
                     "scores": []
                 },
                 {
+                    "index": 1,
                     "chapter": "Chapter 2 - UX",
                     "description": "This chapter delves into the essential aspects of User Experience design. It distinguishes between User Experience principles and surface-level design trends, emphasizing the importance of creating meaningful and user-centric experiences. Analyzing the key components of effective UX, from usability and accessibility to User Interface design.",
                     "scores": []
                 },
                 {
+                    "index": 2,
                     "chapter": "Chapter 3 - Web Trends",
                     "description": "This chapter navigates the ever-evolving landscape of web trends, exploring their impact on user engagement and design aesthetics. We'll examine emerging web technologies such as WASM, Continuous Integration and Deployment (CICD), No Code/Low Code solutions and micro frontends, and discuss how they shape user experiences on the internet.",
                     "scores": []
                 },
                 {
+                    "index": 3,
                     "chapter": "Chapter 4 - Mobile Trends",
                     "description": "This chapter explores design principles, UI concepts, and emerging technology trends. It covers Dieter Rams' principles, AR and VR applications, and context-aware learning.",
                     "scores": []
@@ -33,15 +37,17 @@
             "index": "1",
             "name": "IMY 310",
             "icon": "Figma",
-            "active": false,
+            "active": true,
             "timeSpent": 154,
             "chapters": [
                 {
+                    "index": 0,
                     "chapter": "Chapter 1 - Interaction Design (ID)",
                     "description": "This chapter covers the core principles of Interaction Design, emphasizing user-centered approaches and inclusivity. It discusses the importance of intentional design, usability goals, and learning from both good and bad designs. It also explores the impact of design on disabilities and its relevance in various domains.",
                     "scores": []
                 },
                 {
+                    "index": 1,
                     "chapter": "Chapter 2 - The Process of ID",
                     "description": "This chapter focuses on essential principles of Interaction Design, including user-centered and iterative approaches, structured design processes like the Double Diamond and Google Design Sprint, and conceptual models. The chapter underscores the iterative nature of Interaction Design for ongoing improvement.",
                     "scores": [
@@ -49,11 +55,13 @@
                     ]
                 },
                 {
+                    "index": 2,
                     "chapter": "Chapter 3 - Conceptualization",
                     "description": "This chapter covers delves into the topics of proof of concept, design conceptualization, and avoiding incorrect assumptions. It explores the role of conceptual models and interface metaphors, discussing their impact on user learning. It also dicusses the role of a guiding vision in research and development.",
                     "scores": []
                 },
                 {
+                    "index": 3,
                     "chapter": "Chapter 4 - Cognitive Aspects",
                     "description": "This chapter focuses on cognitive aspects of User Experience design and human information processing. It covers topics such as cognition's role in understanding user capabilities, learning methods, mental models, UX design principles for cognitive aspects, and the order of the human processing model.",
                     "scores": []
@@ -64,10 +72,11 @@
             "index": "2",
             "name": "COS 314",
             "icon": "Brain",
-            "active": true,
+            "active": false,
             "timeSpent": 353,
             "chapters": [
                 {
+                    "index": 0,
                     "chapter": "Chapter 1 - Reasoning Techniques",
                     "description": "This chapter discusses deductive and inductive reasoning, their applications in real-world scenarios and machine learning. It explores different AI environments. Additionally, it introduces complexity classes like NP-Hard and P.",
                     "scores": [
@@ -75,6 +84,7 @@
                     ]
                 },
                 {
+                    "index": 1,
                     "chapter": "Chapter 2 - State Space Search",
                     "description": "This chapter discusses search algorithms, state spaces, and heuristics. It covers admissible algorithms, state space representations, and search strategies like Depth First Search and Breadth First Search. The role of efficient heuristics.",
                     "scores": [
@@ -85,6 +95,7 @@
                     ]
                 },
                 {
+                    "index": 2,
                     "chapter": "Chapter 3 - Local Optima",
                     "description": "This chapter covers optimization algorithms, including local searches and metaheuristics. Topics include local maxima, plateaus, combinatorial optimization objectives, and perturbative search.",
                     "scores": [
@@ -92,6 +103,7 @@
                     ]
                 },
                 {
+                    "index": 3,
                     "chapter": "Chapter 4 - Metaheuristics",
                     "description": "This chapter delves into aspects about optimization and search algorithms. It covers topics like single-point search, path length, Simulated Annealing, Genetic Algorithms, their characteristics, and parameters affecting their performance.",
                     "scores": []
@@ -106,21 +118,25 @@
             "timeSpent": 0,
             "chapters": [
                 {
+                    "index": 0,
                     "chapter": "Chapter 1 - Preliminaries",
                     "description": "This chapter delves into the building blocks of programming languages. It covers the importance of studying languages, and the characteristics of certain programming languages.",
                     "scores": []
                 },
                 {
+                    "index": 1,
                     "chapter": "Chapter 2 - Evolution of Languages",
                     "description": "This chapter delves into multiple programming languages and their histories. It covers topics such as expression coding, Plankalkul, Fortran, ALGOL 60, and many more.",
                     "scores": []
                 },
                 {
+                    "index": 2,
                     "chapter": "Chapter 3 - Functional Programming ",
                     "description": "This chapter focuses on functional programming languages. It covers topics such as the von Neumann architecture, referential transparency, and the characteristics of functional programming languages.",
                     "scores": []
                 },
                 {
+                    "index": 3,
                     "chapter": "Chapter 4 - Logic Programming",
                     "description": "This chapter focuses on logic programming languages, primarily focusing on Prolog. It covers topics such as declarative programming, propositions, and the various elements in Prolog like facts, rules, goals.",
                     "scores": []
