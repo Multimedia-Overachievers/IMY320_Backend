@@ -50,69 +50,72 @@ app.post('/questions', function (req, res) {
     });
 });
 
-app.get('/set-all-finished', function (req, res) {
-    // fs.readFile( "json/questions.json", 'utf8', function (err, data) {
-    //     var data = JSON.parse(data);
-    //     data.module.forEach(module => {
-    //         module.chapters.forEach(chapter => {
-    //             chapter.questions.forEach(question => {
-    //                 question.finished = true;
-    //             });
-    //         });
-    //     });
-
-    //     fs.writeFile("json/questions.json", JSON.stringify(data, null, 4), function(err) {
-    //         if(err) {
-    //             return console.log(err);
-    //         }
+app.get('/set-all-finished', async function (req, res) {
+    await Promise.all(modules.map(async module => {
+        await new Promise((resolve, reject) => {
+            fs.readFile( "json/" + module + ".json", 'utf8', function (err, data) {
+                var data = JSON.parse(data);
+                data.chapters.forEach(chapter => {
+                    chapter.questions.forEach(question => {
+                        question.finished = true;
+                    });
+                });
         
-    //         console.log("The file was saved! | Set all finished");
-    //     });
-    // });
+                fs.writeFile("json/" + module + ".json", JSON.stringify(data, null, 4), function(err) {
+                    if(err) {
+                        return console.log(err);
+                    }
+                });
+            });
+            resolve();
+        });
+    })).then(() => {
+        console.log("All questions set to finished");
+    });
 });
 
 app.get('/set-all-unfinished', async function (req, res) {
-    // fs.readFile( "json/questions.json", 'utf8', function (err, data) {
-    //     var data = JSON.parse(data);
-    //     data.module.forEach(module => {
-    //         module.chapters.forEach(chapter => {
-    //             chapter.questions.forEach(question => {
-    //                 question.finished = false;
-    //             });
-    //         });
-    //     });
-
-    //     fs.writeFile("json/questions.json", JSON.stringify(data, null, 4), function(err) {
-    //         if(err) {
-    //             return console.log(err);
-    //         }
+    await Promise.all(modules.map(async module => {
+        await new Promise((resolve, reject) => {
+            fs.readFile( "json/" + module + ".json", 'utf8', function (err, data) {
+                var data = JSON.parse(data);
+                data.chapters.forEach(chapter => {
+                    chapter.questions.forEach(question => {
+                        question.finished = false;
+                    });
+                });
         
-    //         console.log("The file was saved! | Set all unfinished");
-    //     });
-    // });
+                fs.writeFile("json/" + module + ".json", JSON.stringify(data, null, 4), function(err) {
+                    if(err) {
+                        return console.log(err);
+                    }
+                });
+            });
+            resolve();
+        });
+    })).then(() => {
+        console.log("All questions set to finished");
+    });
 });
 
 app.post('/update-chapter-question', function (req, res) {
-    // fs.readFile( "json/questions.json", 'utf8', function (err, data) {
-    //     var data = JSON.parse(data);
-    //     req.body.questionIndex.forEach(questionIndex => {
-    //         data.module[req.body.moduleIndex].chapters[req.body.chapterIndex].questions[questionIndex].finished = true;
-    //     });
-
-    //     fs.writeFile("json/questions.json", JSON.stringify(data, null, 4), function(err) {
-    //         if(err) {
-    //             return console.log(err);
-    //         }
-    //     });
-
-    //     console.log("Question Set to finished");
-    // });
-
-    // res.json({});
-
     //do the same but with new module per json file
     var moduleCode = GetModuleCode(req.body.moduleIndex);
-    console.log(moduleCode);
+    
+    fs.readFile( "json/" + moduleCode + ".json", 'utf8', function (err, data) {
+        var data = JSON.parse(data);
+        req.body.questionIndex.forEach(questionIndex => {
+            data.chapters[req.body.chapterIndex].questions[questionIndex].finished = true;
+        });
+
+        fs.writeFile("json/" + moduleCode + ".json", JSON.stringify(data, null, 4), function(err) {
+            if(err) {
+                return console.log(err);
+            }
+        });
+
+        console.log("Question Set to finished");
+    });
 });
 
 
