@@ -65,17 +65,22 @@
             "name": "COS 314",
             "icon": "Brain",
             "active": true,
-            "timeSpent": 141,
+            "timeSpent": 353,
             "chapters": [
                 {
                     "chapter": "Chapter 1 - Reasoning Techniques",
                     "description": "This chapter discusses deductive and inductive reasoning, their applications in real-world scenarios and machine learning. It explores different AI environments. Additionally, it introduces complexity classes like NP-Hard and P.",
-                    "scores": []
+                    "scores": [
+                        50
+                    ]
                 },
                 {
                     "chapter": "Chapter 2 - State Space Search",
                     "description": "This chapter discusses search algorithms, state spaces, and heuristics. It covers admissible algorithms, state space representations, and search strategies like Depth First Search and Breadth First Search. The role of efficient heuristics.",
                     "scores": [
+                        66,
+                        50,
+                        16,
                         66
                     ]
                 },

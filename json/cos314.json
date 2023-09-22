@@ -92,7 +92,7 @@
                         }
                     ],
                     "explanation": "Tax calculators typically use deductive reasoning to apply tax rules and formulas to specific financial information in order to calculate tax amounts.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 4,
@@ -156,7 +156,7 @@
                         }
                     ],
                     "explanation": "Artificial Neural Networks and Decision Trees are machine learning models that rely on inductive learning to make predictions or classifications based on data.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 7,
@@ -268,7 +268,7 @@
                         }
                     ],
                     "explanation": "In a single-agent environment, there is only one agent interacting with the environment, as opposed to multiple agents.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 12,
@@ -354,7 +354,7 @@
                         }
                     ],
                     "explanation": "An admissible algorithm will always find the optimal solution or the shortest path if one exists.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 1,
@@ -370,7 +370,7 @@
                         }
                     ],
                     "explanation": "A state space encompasses all possible states or configurations that a system or problem can take.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 2,
@@ -394,7 +394,7 @@
                         }
                     ],
                     "explanation": "The traveling salesman problem involves finding the shortest path in a network of cities and can be accurately represented as a graph.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 3,
@@ -418,7 +418,7 @@
                         }
                     ],
                     "explanation": "State spaces are often generated dynamically during problem-solving because the entire state space may be unknown or too large to precompute.",
-                    "finished": false
+                    "finished": true
                 },
                 {
                     "id": 4,
@@ -622,7 +622,7 @@
                         },
                         {
                             "answer": "Best First Search selects the lowest expansion node at first for evaluation",
-                            "correct": false
+                            "correct": true
                         }
                     ],
                     "explanation": "Best First Search prioritizes nodes based on a heuristic evaluation function, selecting the one with the lowest estimated cost for expansion.",
