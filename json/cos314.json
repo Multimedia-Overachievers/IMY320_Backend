@@ -3,7 +3,7 @@
     "chapters": [
         {
             "id": 0,
-            "name": "Chapter 1 - Overview of Reasoning Techniques",
+            "name": "Overview of Reasoning Techniques",
             "questions": [
                 {
                     "id": 0,
@@ -329,7 +329,7 @@
         },
         {
             "id": 1,
-            "name": "Chapter 2 - State Space Representation and Search",
+            "name": "State Space Representation and Search",
             "questions": [
                 {
                     "id": 0,
@@ -647,7 +647,7 @@
         },
         {
             "id": 2,
-            "name": "Chapter 3",
+            "name": "Local Searches",
             "questions": [
                 {
                     "id": 0,
@@ -965,7 +965,7 @@
         },
         {
             "id": 3,
-            "name": "Chapter 4",
+            "name": "Optimization Algorithms",
             "questions": [
                 {
                     "id": 0,

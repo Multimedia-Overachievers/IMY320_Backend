@@ -3,7 +3,7 @@
     "chapters": [
         {
             "id": 0,
-            "name": "Chapter 1 - Trends",
+            "name": "Trends",
             "questions": [
                 {
                     "id": 0,
@@ -313,7 +313,7 @@
         },
         {
             "id": 1,
-            "name": "Chapter 2 - UX",
+            "name": "User Experience Design",
             "questions": [
                 {
                     "id": 0,
@@ -639,7 +639,7 @@
         },
         {
             "id": 2,
-            "name": "Chapter 3 - Web Trends",
+            "name": "Web Trends",
             "questions": [
                 {
                     "id": 0,
@@ -949,7 +949,7 @@
         },
         {
             "id": 3,
-            "name": "Chapter 4 - Mobile Trends",
+            "name": "Mobile Trends",
             "questions": [
                 {
                     "id": 0,
