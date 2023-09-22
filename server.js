@@ -6,6 +6,12 @@ var bodyParser = require('body-parser')
 
 var cors = require('cors');
 app.use(cors());
+// has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+app.use(function(req, res, next) {
+    res.header("Access-Control-Allow-Origin", "*"); // update to match the domain you will make the request from // https://jitter-backend.onrender.com
+    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+    next();
+});
 
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
