@@ -22,6 +22,10 @@ var server = app.listen(5000, function () {
     console.log("Server listening on port: %s", port)
 })
 
+app.get('/wake', function (req, res) {
+    res.json({});
+});
+
 app.get('/modules', function (req, res) {
     fs.readFile( "json/modules.json", 'utf8', function (err, data) {
        res.end(data);
